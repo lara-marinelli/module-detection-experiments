@@ -1,0 +1,1102 @@
+Source Node	Interaction	Target Node	Source ID	Source Alias	Source type	Source querynode	Target ID	Target Alias	Target type	Target querynode	Citation	cx edge id	cx source node id	cx target node id
+ACTB	involved-in	Apoptosis	ncbigene:60		gene	true	REACT:R-HSA-109581		pathway			1315	543	449
+ACTB	involved-in	Axon guidance	ncbigene:60		gene	true	REACT:R-HSA-422475		pathway			1317	543	287
+ACTB	involved-in	Bacterial invasion of epithelial cells	ncbigene:60		gene	true	KEGG:hsa05100		pathway			1318	543	545
+ACTB	involved-in	B-WICH complex positively regulates rRNA expression	ncbigene:60		gene	true	REACT:R-HSA-5250924		pathway			1319	543	546
+ACTB	involved-in	Deubiquitination	ncbigene:60		gene	true	REACT:R-HSA-5688426		pathway			1324	543	321
+ACTB	involved-in	Developmental Biology	ncbigene:60		gene	true	REACT:R-HSA-1266738		pathway			1325	543	291
+ACTB	involved-in	DNA Repair	ncbigene:60		gene	true	REACT:R-HSA-73894		pathway			1328	543	294
+ACTB	involved-in	Epigenetic regulation of gene expression	ncbigene:60		gene	true	REACT:R-HSA-212165		pathway			1331	543	555
+ACTB	involved-in	Fluid shear stress and atherosclerosis	ncbigene:60		gene	true	KEGG:hsa05418		pathway			1333	543	556
+ACTB	involved-in	Gene Expression	ncbigene:60		gene	true	REACT:R-HSA-74160		pathway			1337	543	10
+ACTB	involved-in	Global Genome Nucleotide Excision Repair (GG-NER)	ncbigene:60		gene	true	REACT:R-HSA-5696399		pathway			1338	543	560
+ACTB	involved-in	Hippo signaling pathway	ncbigene:60		gene	true	KEGG:hsa04390		pathway			1340	543	562
+ACTB	involved-in	Immune System	ncbigene:60		gene	true	REACT:R-HSA-168256		pathway			1342	543	2
+ACTB	involved-in	Influenza A	ncbigene:60		gene	true	KEGG:hsa05164		pathway			1343	543	563
+ACTB	involved-in	Innate Immune System	ncbigene:60		gene	true	REACT:R-HSA-168249		pathway			1344	543	3
+ACTB	involved-in	Leukocyte transendothelial migration	ncbigene:60		gene	true	KEGG:hsa04670		pathway			1345	543	564
+ACTB	involved-in	Metabolism of proteins	ncbigene:60		gene	true	REACT:R-HSA-392499		pathway			1346	543	34
+ACTB	involved-in	Nucleotide Excision Repair	ncbigene:60		gene	true	REACT:R-HSA-5696398		pathway			1347	543	565
+ACTB	involved-in	Oxytocin signaling pathway	ncbigene:60		gene	true	KEGG:hsa04921		pathway			1348	543	566
+ACTB	involved-in	Phagosome	ncbigene:60		gene	true	KEGG:hsa04145		pathway			1350	543	567
+ACTB	involved-in	Platelet activation	ncbigene:60		gene	true	KEGG:hsa04611		pathway			1351	543	568
+ACTB	involved-in	Positive epigenetic regulation of rRNA expression	ncbigene:60		gene	true	REACT:R-HSA-5250913		pathway			1352	543	569
+ACTB	involved-in	Post-translational protein modification	ncbigene:60		gene	true	REACT:R-HSA-597592		pathway			1353	543	37
+ACTB	involved-in	Regulation of actin cytoskeleton	ncbigene:60		gene	true	KEGG:hsa04810		pathway			1358	543	285
+ACTB	involved-in	RHO GTPase Effectors	ncbigene:60		gene	true	REACT:R-HSA-195258		pathway			1360	543	280
+ACTB	involved-in	Salmonella infection	ncbigene:60		gene	true	KEGG:hsa05132		pathway			1363	543	575
+ACTB	involved-in	Signaling by Rho GTPases	ncbigene:60		gene	true	REACT:R-HSA-194315		pathway			1365	543	25
+ACTB	involved-in	Signal Transduction	ncbigene:60		gene	true	REACT:R-HSA-162582		pathway			1366	543	26
+ACTB	involved-in	UCH proteinases	ncbigene:60		gene	true	REACT:R-HSA-5689603		pathway			1369	543	578
+ALB	involved-in	Binding and Uptake of Ligands by Scavenger Receptors	ncbigene:213		gene	true	REACT:R-HSA-2173782		pathway			4777	1273	1274
+ALB	involved-in	Disease	ncbigene:213		gene	true	REACT:R-HSA-1643685		pathway			4780	1273	45
+ALB	involved-in	Disorders of transmembrane transporters	ncbigene:213		gene	true	REACT:R-HSA-5619115		pathway			4781	1273	222
+ALB	involved-in	HDL-mediated lipid transport	ncbigene:213		gene	true	REACT:R-HSA-194223		pathway			4782	1273	18
+ALB	involved-in	Hemostasis	ncbigene:213		gene	true	REACT:R-HSA-109582		pathway			4783	1273	1
+ALB	involved-in	Lipid digestion, mobilization, and transport	ncbigene:213		gene	true	REACT:R-HSA-73923		pathway			4784	1273	20
+ALB	involved-in	Lipoprotein metabolism	ncbigene:213		gene	true	REACT:R-HSA-174824		pathway			4785	1273	21
+ALB	involved-in	Metabolism	ncbigene:213		gene	true	REACT:R-HSA-1430728		pathway			4786	1273	22
+ALB	involved-in	Metabolism of lipids and lipoproteins	ncbigene:213		gene	true	REACT:R-HSA-556833		pathway			4787	1273	23
+ALB	involved-in	Platelet activation, signaling and aggregation	ncbigene:213		gene	true	REACT:R-HSA-76002		pathway			4788	1273	5
+ALB	involved-in	Platelet degranulation	ncbigene:213		gene	true	REACT:R-HSA-114608		pathway			4789	1273	6
+ALB	involved-in	Response to elevated platelet cytosolic Ca2+	ncbigene:213		gene	true	REACT:R-HSA-76005		pathway			4791	1273	7
+ALB	involved-in	Scavenging of heme from plasma	ncbigene:213		gene	true	REACT:R-HSA-2168880		pathway			4792	1273	1277
+ALB	involved-in	SLC-mediated transmembrane transport	ncbigene:213		gene	true	REACT:R-HSA-425407		pathway			4793	1273	78
+ALB	involved-in	Thyroid hormone synthesis	ncbigene:213		gene	true	KEGG:hsa04918		pathway			4795	1273	829
+ALB	involved-in	Transmembrane transport of small molecules	ncbigene:213		gene	true	REACT:R-HSA-382551		pathway			4796	1273	86
+ALB	involved-in	Vesicle-mediated transport	ncbigene:213		gene	true	REACT:R-HSA-5653656		pathway			4799	1273	122
+ALS2	involved-in	Amyotrophic lateral sclerosis (ALS)	ncbigene:57679		gene	true	KEGG:hsa05014		pathway			5291	1375	1376
+ALS2	involved-in	Membrane Trafficking	ncbigene:57679		gene	true	REACT:R-HSA-199991		pathway			5292	1375	121
+ALS2	involved-in	Vesicle-mediated transport	ncbigene:57679		gene	true	REACT:R-HSA-5653656		pathway			5294	1375	122
+AMER1	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:139285		gene		REACT:R-HSA-5467337		pathway	true		5359	1397	1399
+AMER1	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:139285		gene		REACT:R-HSA-195253		pathway			5363	1397	946
+AMER1	involved-in	Disease	ncbigene:139285		gene		REACT:R-HSA-1643685		pathway			5365	1397	45
+AMER1	involved-in	Diseases of signal transduction	ncbigene:139285		gene		REACT:R-HSA-5663202		pathway			5366	1397	701
+AMER1	involved-in	Signaling by Wnt	ncbigene:139285		gene		REACT:R-HSA-195721		pathway			5372	1397	948
+AMER1	involved-in	Signal Transduction	ncbigene:139285		gene		REACT:R-HSA-162582		pathway			5374	1397	26
+AMER1	involved-in	TCF dependent signaling in response to WNT	ncbigene:139285		gene		REACT:R-HSA-201681		pathway			5376	1397	1248
+AMER1	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:139285		gene		REACT:R-HSA-4839744		pathway	true		5377	1397	1411
+AOX1	involved-in	Drug metabolism - cytochrome P450	ncbigene:316		gene	true	KEGG:hsa00982		pathway			6092	1537	874
+AOX1	involved-in	Metabolic pathways	ncbigene:316		gene	true	KEGG:hsa01100		pathway			6094	1537	32
+AOX1	involved-in	Metabolism	ncbigene:316		gene	true	REACT:R-HSA-1430728		pathway			6095	1537	22
+AOX1	involved-in	Metabolism of vitamins and cofactors	ncbigene:316		gene	true	REACT:R-HSA-196854		pathway			6096	1537	135
+AOX1	involved-in	Metabolism of water-soluble vitamins and cofactors	ncbigene:316		gene	true	REACT:R-HSA-196849		pathway			6097	1537	136
+AOX1	involved-in	Tryptophan metabolism	ncbigene:316		gene	true	KEGG:hsa00380		pathway			6100	1537	117
+AOX1	involved-in	Tyrosine metabolism	ncbigene:316		gene	true	KEGG:hsa00350		pathway			6101	1537	879
+APC	involved-in	APC truncation mutants are not K63 polyubiquitinated	ncbigene:324		gene	true	REACT:R-HSA-5467333		pathway	true		6634	1612	1613
+APC	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:324		gene	true	REACT:R-HSA-5467337		pathway	true		6635	1612	1399
+APC	involved-in	Apoptosis	ncbigene:324		gene	true	REACT:R-HSA-109581		pathway			6636	1612	449
+APC	involved-in	Apoptotic cleavage of cellular proteins	ncbigene:324		gene	true	REACT:R-HSA-111465		pathway			6637	1612	450
+APC	involved-in	Apoptotic execution  phase	ncbigene:324		gene	true	REACT:R-HSA-75153		pathway			6638	1612	451
+APC	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:324		gene	true	REACT:R-HSA-195253		pathway			6646	1612	946
+APC	involved-in	Deubiquitination	ncbigene:324		gene	true	REACT:R-HSA-5688426		pathway			6647	1612	321
+APC	involved-in	Disease	ncbigene:324		gene	true	REACT:R-HSA-1643685		pathway			6649	1612	45
+APC	involved-in	Diseases of signal transduction	ncbigene:324		gene	true	REACT:R-HSA-5663202		pathway			6650	1612	701
+APC	involved-in	Hippo signaling pathway	ncbigene:324		gene	true	KEGG:hsa04390		pathway			6652	1612	562
+APC	involved-in	Metabolism of proteins	ncbigene:324		gene	true	REACT:R-HSA-392499		pathway			6654	1612	34
+APC	involved-in	MicroRNAs in cancer	ncbigene:324		gene	true	KEGG:hsa05206		pathway			6655	1612	182
+APC	involved-in	Pathways in cancer	ncbigene:324		gene	true	KEGG:hsa05200		pathway			6658	1612	303
+APC	involved-in	Post-translational protein modification	ncbigene:324		gene	true	REACT:R-HSA-597592		pathway			6660	1612	37
+APC	involved-in	Programmed Cell Death	ncbigene:324		gene	true	REACT:R-HSA-5357801		pathway			6661	1612	454
+APC	involved-in	Regulation of actin cytoskeleton	ncbigene:324		gene	true	KEGG:hsa04810		pathway			6662	1612	285
+APC	involved-in	Signaling by Wnt	ncbigene:324		gene	true	REACT:R-HSA-195721		pathway			6666	1612	948
+APC	involved-in	Signal Transduction	ncbigene:324		gene	true	REACT:R-HSA-162582		pathway			6669	1612	26
+APC	involved-in	TCF dependent signaling in response to WNT	ncbigene:324		gene	true	REACT:R-HSA-201681		pathway			6671	1612	1248
+APC	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:324		gene	true	REACT:R-HSA-4839744		pathway	true		6672	1612	1411
+APOE	involved-in	Binding and Uptake of Ligands by Scavenger Receptors	ncbigene:348		gene	true	REACT:R-HSA-2173782		pathway			6979	1674	1274
+APOE	involved-in	Gene Expression	ncbigene:348		gene	true	REACT:R-HSA-74160		pathway			6981	1674	10
+APOE	involved-in	Generic Transcription Pathway	ncbigene:348		gene	true	REACT:R-HSA-212436		pathway			6982	1674	1013
+APOE	involved-in	HDL-mediated lipid transport	ncbigene:348		gene	true	REACT:R-HSA-194223		pathway			6983	1674	18
+APOE	involved-in	Lipid digestion, mobilization, and transport	ncbigene:348		gene	true	REACT:R-HSA-73923		pathway			6984	1674	20
+APOE	involved-in	Lipoprotein metabolism	ncbigene:348		gene	true	REACT:R-HSA-174824		pathway			6985	1674	21
+APOE	involved-in	Metabolism	ncbigene:348		gene	true	REACT:R-HSA-1430728		pathway			6986	1674	22
+APOE	involved-in	Metabolism of lipids and lipoproteins	ncbigene:348		gene	true	REACT:R-HSA-556833		pathway			6988	1674	23
+APOE	involved-in	Metabolism of vitamins and cofactors	ncbigene:348		gene	true	REACT:R-HSA-196854		pathway			6989	1674	135
+APOE	involved-in	Scavenging by Class A Receptors	ncbigene:348		gene	true	REACT:R-HSA-3000480		pathway			6991	1674	1644
+APOE	involved-in	Signal Transduction	ncbigene:348		gene	true	REACT:R-HSA-162582		pathway			6992	1674	26
+APOE	involved-in	Vesicle-mediated transport	ncbigene:348		gene	true	REACT:R-HSA-5653656		pathway			6994	1674	122
+AXIN1	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:8312		gene		REACT:R-HSA-5467337		pathway	true		10406	2172	1399
+AXIN1	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:8312		gene		REACT:R-HSA-195253		pathway			10414	2172	946
+AXIN1	involved-in	Deubiquitination	ncbigene:8312		gene		REACT:R-HSA-5688426		pathway			10415	2172	321
+AXIN1	involved-in	Disease	ncbigene:8312		gene		REACT:R-HSA-1643685		pathway			10417	2172	45
+AXIN1	involved-in	Diseases of signal transduction	ncbigene:8312		gene		REACT:R-HSA-5663202		pathway			10418	2172	701
+AXIN1	involved-in	Hippo signaling pathway	ncbigene:8312		gene		KEGG:hsa04390		pathway			10420	2172	562
+AXIN1	involved-in	Metabolism of proteins	ncbigene:8312		gene		REACT:R-HSA-392499		pathway			10421	2172	34
+AXIN1	involved-in	Pathways in cancer	ncbigene:8312		gene		KEGG:hsa05200		pathway			10423	2172	303
+AXIN1	involved-in	Post-translational protein modification	ncbigene:8312		gene		REACT:R-HSA-597592		pathway			10425	2172	37
+AXIN1	involved-in	Signaling by Wnt	ncbigene:8312		gene		REACT:R-HSA-195721		pathway			10429	2172	948
+AXIN1	involved-in	Signal Transduction	ncbigene:8312		gene		REACT:R-HSA-162582		pathway			10432	2172	26
+AXIN1	involved-in	TCF dependent signaling in response to WNT	ncbigene:8312		gene		REACT:R-HSA-201681		pathway			10434	2172	1248
+AXIN1	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:8312		gene		REACT:R-HSA-4839744		pathway	true		10435	2172	1411
+B2M	involved-in	Adaptive Immune System	ncbigene:567		gene	true	REACT:R-HSA-1280218		pathway			10478	2183	647
+B2M	involved-in	Antigen processing and presentation	ncbigene:567		gene	true	KEGG:hsa04612		pathway			10481	2183	2185
+B2M	involved-in	Antigen processing-Cross presentation	ncbigene:567		gene	true	REACT:R-HSA-1236975		pathway			10482	2183	2186
+B2M	involved-in	Class I MHC mediated antigen processing & presentation	ncbigene:567		gene	true	REACT:R-HSA-983169		pathway			10483	2183	1453
+B2M	involved-in	Cytokine Signaling in Immune system	ncbigene:567		gene	true	REACT:R-HSA-1280215		pathway			10484	2183	44
+B2M	involved-in	DAP12 interactions	ncbigene:567		gene	true	REACT:R-HSA-2172127		pathway			10485	2183	604
+B2M	involved-in	DAP12 signaling	ncbigene:567		gene	true	REACT:R-HSA-2424491		pathway			10486	2183	605
+B2M	involved-in	Disease	ncbigene:567		gene	true	REACT:R-HSA-1643685		pathway			10487	2183	45
+B2M	involved-in	ER-Phagosome pathway	ncbigene:567		gene	true	REACT:R-HSA-1236974		pathway			10489	2183	2188
+B2M	involved-in	HIV Infection	ncbigene:567		gene	true	REACT:R-HSA-162906		pathway			10490	2183	50
+B2M	involved-in	Host Interactions of HIV factors	ncbigene:567		gene	true	REACT:R-HSA-162909		pathway			10491	2183	52
+B2M	involved-in	Immune System	ncbigene:567		gene	true	REACT:R-HSA-168256		pathway			10492	2183	2
+B2M	involved-in	Infectious disease	ncbigene:567		gene	true	REACT:R-HSA-5663205		pathway			10494	2183	54
+B2M	involved-in	Innate Immune System	ncbigene:567		gene	true	REACT:R-HSA-168249		pathway			10495	2183	3
+B2M	involved-in	Metabolism of proteins	ncbigene:567		gene	true	REACT:R-HSA-392499		pathway			10498	2183	34
+B2M	involved-in	Neutrophil degranulation	ncbigene:567		gene	true	REACT:R-HSA-6798695		pathway			10501	2183	4
+CAT	involved-in	Amyotrophic lateral sclerosis (ALS)	ncbigene:847		gene	true	KEGG:hsa05014		pathway			15323	2787	1376
+CAT	involved-in	Carbon metabolism	ncbigene:847		gene	true	KEGG:hsa01200		pathway			15324	2787	377
+CAT	involved-in	Cellular responses to stress	ncbigene:847		gene	true	REACT:R-HSA-2262752		pathway			15325	2787	42
+CAT	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:847		gene	true	REACT:R-HSA-3299685		pathway			15326	2787	1706
+CAT	involved-in	FoxO signaling pathway	ncbigene:847		gene	true	KEGG:hsa04068		pathway			15327	2787	965
+CAT	involved-in	Immune System	ncbigene:847		gene	true	REACT:R-HSA-168256		pathway			15329	2787	2
+CAT	involved-in	Innate Immune System	ncbigene:847		gene	true	REACT:R-HSA-168249		pathway			15330	2787	3
+CAT	involved-in	Longevity regulating pathway	ncbigene:847		gene	true	KEGG:hsa04211		pathway			15331	2787	813
+CAT	involved-in	Longevity regulating pathway - multiple species	ncbigene:847		gene	true	KEGG:hsa04213		pathway			15332	2787	814
+CAT	involved-in	Metabolism	ncbigene:847		gene	true	REACT:R-HSA-1430728		pathway			15333	2787	22
+CAT	involved-in	Metabolism of nucleotides	ncbigene:847		gene	true	REACT:R-HSA-15869		pathway			15334	2787	686
+CAT	involved-in	Neutrophil degranulation	ncbigene:847		gene	true	REACT:R-HSA-6798695		pathway			15335	2787	4
+CAT	involved-in	Peroxisome	ncbigene:847		gene	true	KEGG:hsa04146		pathway			15336	2787	239
+CAT	involved-in	Purine catabolism	ncbigene:847		gene	true	REACT:R-HSA-74259		pathway			15337	2787	2788
+CAT	involved-in	Purine metabolism	ncbigene:847		gene	true	REACT:R-HSA-73847		pathway			15338	2787	688
+CAT	involved-in	Tryptophan metabolism	ncbigene:847		gene	true	KEGG:hsa00380		pathway			15339	2787	117
+CCL5	involved-in	Chagas disease (American trypanosomiasis)	ncbigene:6352		gene	true	KEGG:hsa05142		pathway			15854	2879	429
+CCL5	involved-in	Chemokine signaling pathway	ncbigene:6352		gene	true	KEGG:hsa04062		pathway			15856	2879	794
+CCL5	involved-in	Cytokine Signaling in Immune system	ncbigene:6352		gene	true	REACT:R-HSA-1280215		pathway			15859	2879	44
+CCL5	involved-in	Immune System	ncbigene:6352		gene	true	REACT:R-HSA-168256		pathway			15866	2879	2
+CCL5	involved-in	Influenza A	ncbigene:6352		gene	true	KEGG:hsa05164		pathway			15867	2879	563
+CCL5	involved-in	Interleukin-10 signaling	ncbigene:6352		gene	true	REACT:R-HSA-6783783		pathway			15868	2879	2862
+CCL5	involved-in	NOD-like receptor signaling pathway	ncbigene:6352		gene	true	KEGG:hsa04621		pathway			15869	2879	1108
+CCL5	involved-in	Prion diseases	ncbigene:6352		gene	true	KEGG:hsa05020		pathway			15871	2879	2278
+CCL5	involved-in	Signaling by GPCR	ncbigene:6352		gene	true	REACT:R-HSA-372790		pathway			15873	2879	261
+CCL5	involved-in	Signaling by Interleukins	ncbigene:6352		gene	true	REACT:R-HSA-449147		pathway			15874	2879	631
+CCL5	involved-in	Signal Transduction	ncbigene:6352		gene	true	REACT:R-HSA-162582		pathway			15875	2879	26
+CCL5	involved-in	TNF signaling pathway	ncbigene:6352		gene	true	KEGG:hsa04668		pathway			15876	2879	1250
+CCS	involved-in	Amyotrophic lateral sclerosis (ALS)	ncbigene:9973		gene	true	KEGG:hsa05014		pathway			16623	2979	1376
+CCS	involved-in	Cellular responses to stress	ncbigene:9973		gene	true	REACT:R-HSA-2262752		pathway			16624	2979	42
+CCS	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:9973		gene	true	REACT:R-HSA-3299685		pathway			16625	2979	1706
+CSNK1A1	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:1452		gene		REACT:R-HSA-5467337		pathway	true		24227	3853	1399
+CSNK1A1	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:1452		gene		REACT:R-HSA-195253		pathway			24232	3853	946
+CSNK1A1	involved-in	Disease	ncbigene:1452		gene		REACT:R-HSA-1643685		pathway			24235	3853	45
+CSNK1A1	involved-in	Diseases of signal transduction	ncbigene:1452		gene		REACT:R-HSA-5663202		pathway			24236	3853	701
+CSNK1A1	involved-in	Hedgehog 'off' state	ncbigene:1452		gene		REACT:R-HSA-5610787		pathway			24238	3853	809
+CSNK1A1	involved-in	Signaling by Hedgehog	ncbigene:1452		gene		REACT:R-HSA-5358351		pathway			24246	3853	729
+CSNK1A1	involved-in	Signaling by Wnt	ncbigene:1452		gene		REACT:R-HSA-195721		pathway			24247	3853	948
+CSNK1A1	involved-in	Signal Transduction	ncbigene:1452		gene		REACT:R-HSA-162582		pathway			24249	3853	26
+CSNK1A1	involved-in	TCF dependent signaling in response to WNT	ncbigene:1452		gene		REACT:R-HSA-201681		pathway			24251	3853	1248
+CSNK1A1	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:1452		gene		REACT:R-HSA-4839744		pathway	true		24252	3853	1411
+CTSB	involved-in	Adaptive Immune System	ncbigene:1508		gene	true	REACT:R-HSA-1280218		pathway			24834	3908	647
+CTSB	involved-in	Antigen processing and presentation	ncbigene:1508		gene	true	KEGG:hsa04612		pathway			24835	3908	2185
+CTSB	involved-in	Apoptosis	ncbigene:1508		gene	true	REACT:R-HSA-109581		pathway			24836	3908	449
+CTSB	involved-in	Immune System	ncbigene:1508		gene	true	REACT:R-HSA-168256		pathway			24843	3908	2
+CTSB	involved-in	Innate Immune System	ncbigene:1508		gene	true	REACT:R-HSA-168249		pathway			24844	3908	3
+CTSB	involved-in	MHC class II antigen presentation	ncbigene:1508		gene	true	REACT:R-HSA-2132295		pathway			24846	3908	655
+CTSB	involved-in	Neutrophil degranulation	ncbigene:1508		gene	true	REACT:R-HSA-6798695		pathway			24847	3908	4
+CTSB	involved-in	NOD-like receptor signaling pathway	ncbigene:1508		gene	true	KEGG:hsa04621		pathway			24848	3908	1108
+CTSB	involved-in	Toll-Like Receptors Cascades	ncbigene:1508		gene	true	REACT:R-HSA-168898		pathway			24850	3908	987
+CYBA	involved-in	Adaptive Immune System	ncbigene:1535		gene	true	REACT:R-HSA-1280218		pathway			25671	3987	647
+CYBA	involved-in	Antigen processing-Cross presentation	ncbigene:1535		gene	true	REACT:R-HSA-1236975		pathway			25672	3987	2186
+CYBA	involved-in	Cellular responses to stress	ncbigene:1535		gene	true	REACT:R-HSA-2262752		pathway			25673	3987	42
+CYBA	involved-in	Class I MHC mediated antigen processing & presentation	ncbigene:1535		gene	true	REACT:R-HSA-983169		pathway			25674	3987	1453
+CYBA	involved-in	Cross-presentation of particulate exogenous antigens (phagosomes)	ncbigene:1535		gene	true	REACT:R-HSA-1236973		pathway			25675	3987	3058
+CYBA	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:1535		gene	true	REACT:R-HSA-3299685		pathway			25676	3987	1706
+CYBA	involved-in	Fluid shear stress and atherosclerosis	ncbigene:1535		gene	true	KEGG:hsa05418		pathway			25677	3987	556
+CYBA	involved-in	Immune System	ncbigene:1535		gene	true	REACT:R-HSA-168256		pathway			25678	3987	2
+CYBA	involved-in	Innate Immune System	ncbigene:1535		gene	true	REACT:R-HSA-168249		pathway			25679	3987	3
+CYBA	involved-in	Leishmaniasis	ncbigene:1535		gene	true	KEGG:hsa05140		pathway			25680	3987	2578
+CYBA	involved-in	Leukocyte transendothelial migration	ncbigene:1535		gene	true	KEGG:hsa04670		pathway			25681	3987	564
+CYBA	involved-in	Neutrophil degranulation	ncbigene:1535		gene	true	REACT:R-HSA-6798695		pathway			25682	3987	4
+CYBA	involved-in	NOD-like receptor signaling pathway	ncbigene:1535		gene	true	KEGG:hsa04621		pathway			25683	3987	1108
+CYBA	involved-in	Osteoclast differentiation	ncbigene:1535		gene	true	KEGG:hsa04380		pathway			25684	3987	500
+CYBA	involved-in	Phagosome	ncbigene:1535		gene	true	KEGG:hsa04145		pathway			25685	3987	567
+CYBA	involved-in	RHO GTPase Effectors	ncbigene:1535		gene	true	REACT:R-HSA-195258		pathway			25686	3987	280
+CYBA	involved-in	RHO GTPases Activate NADPH Oxidases	ncbigene:1535		gene	true	REACT:R-HSA-5668599		pathway			25687	3987	3988
+CYBA	involved-in	ROS, RNS production in phagocytes	ncbigene:1535		gene	true	REACT:R-HSA-1222556		pathway			25688	3987	2108
+CYBA	involved-in	Signaling by Rho GTPases	ncbigene:1535		gene	true	REACT:R-HSA-194315		pathway			25689	3987	25
+CYBA	involved-in	Signaling by VEGF	ncbigene:1535		gene	true	REACT:R-HSA-194138		pathway			25690	3987	282
+CYBA	involved-in	Signal Transduction	ncbigene:1535		gene	true	REACT:R-HSA-162582		pathway			25691	3987	26
+CYBA	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:1535		gene	true	REACT:R-HSA-4420097		pathway			25692	3987	283
+CYGB	involved-in	eNOS activation and regulation	ncbigene:114757		gene	true	REACT:R-HSA-203765		pathway			25803	3998	1200
+CYGB	involved-in	Metabolism	ncbigene:114757		gene	true	REACT:R-HSA-1430728		pathway			25804	3998	22
+CYGB	involved-in	Metabolism of nitric oxide	ncbigene:114757		gene	true	REACT:R-HSA-202131		pathway			25805	3998	1218
+DHCR24	involved-in	Metabolic pathways	ncbigene:1718		gene	true	KEGG:hsa01100		pathway			27866	4289	32
+DHCR24	involved-in	Metabolism	ncbigene:1718		gene	true	REACT:R-HSA-1430728		pathway			27867	4289	22
+DHCR24	involved-in	Metabolism of lipids and lipoproteins	ncbigene:1718		gene	true	REACT:R-HSA-556833		pathway			27868	4289	23
+DNM2	involved-in	Adaptive Immune System	ncbigene:1785		gene	true	REACT:R-HSA-1280218		pathway			28630	4432	647
+DNM2	involved-in	Axon guidance	ncbigene:1785		gene	true	REACT:R-HSA-422475		pathway			28631	4432	287
+DNM2	involved-in	Bacterial invasion of epithelial cells	ncbigene:1785		gene	true	KEGG:hsa05100		pathway			28632	4432	545
+DNM2	involved-in	Clathrin derived vesicle budding	ncbigene:1785		gene	true	REACT:R-HSA-421837		pathway			28633	4432	412
+DNM2	involved-in	Developmental Biology	ncbigene:1785		gene	true	REACT:R-HSA-1266738		pathway			28635	4432	291
+DNM2	involved-in	Endocytosis	ncbigene:1785		gene	true	KEGG:hsa04144		pathway			28637	4432	400
+DNM2	involved-in	eNOS activation and regulation	ncbigene:1785		gene	true	REACT:R-HSA-203765		pathway			28638	4432	1200
+DNM2	involved-in	Fc gamma R-mediated phagocytosis	ncbigene:1785		gene	true	KEGG:hsa04666		pathway			28639	4432	1202
+DNM2	involved-in	Golgi Associated Vesicle Biogenesis	ncbigene:1785		gene	true	REACT:R-HSA-432722		pathway			28644	4432	413
+DNM2	involved-in	Immune System	ncbigene:1785		gene	true	REACT:R-HSA-168256		pathway			28645	4432	2
+DNM2	involved-in	Innate Immune System	ncbigene:1785		gene	true	REACT:R-HSA-168249		pathway			28646	4432	3
+DNM2	involved-in	Membrane Trafficking	ncbigene:1785		gene	true	REACT:R-HSA-199991		pathway			28649	4432	121
+DNM2	involved-in	Metabolism	ncbigene:1785		gene	true	REACT:R-HSA-1430728		pathway			28650	4432	22
+DNM2	involved-in	Metabolism of nitric oxide	ncbigene:1785		gene	true	REACT:R-HSA-202131		pathway			28651	4432	1218
+DNM2	involved-in	MHC class II antigen presentation	ncbigene:1785		gene	true	REACT:R-HSA-2132295		pathway			28652	4432	655
+DNM2	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:1785		gene	true	REACT:R-HSA-187037		pathway			28653	4432	622
+DNM2	involved-in	Signalling by NGF	ncbigene:1785		gene	true	REACT:R-HSA-166520		pathway			28658	4432	144
+DNM2	involved-in	Signal Transduction	ncbigene:1785		gene	true	REACT:R-HSA-162582		pathway			28659	4432	26
+DNM2	involved-in	Toll-Like Receptors Cascades	ncbigene:1785		gene	true	REACT:R-HSA-168898		pathway			28662	4432	987
+DNM2	involved-in	trans-Golgi Network Vesicle Budding	ncbigene:1785		gene	true	REACT:R-HSA-199992		pathway			28663	4432	414
+DNM2	involved-in	Vesicle-mediated transport	ncbigene:1785		gene	true	REACT:R-HSA-5653656		pathway			28664	4432	122
+DUOX1	involved-in	Amine-derived hormones	ncbigene:53905		gene	true	REACT:R-HSA-209776		pathway			29176	4524	124
+DUOX1	involved-in	Metabolism	ncbigene:53905		gene	true	REACT:R-HSA-1430728		pathway			29177	4524	22
+DUOX1	involved-in	Metabolism of amino acids and derivatives	ncbigene:53905		gene	true	REACT:R-HSA-71291		pathway			29178	4524	115
+DUOX1	involved-in	Thyroxine biosynthesis	ncbigene:53905		gene	true	REACT:R-HSA-209968		pathway			29179	4524	3308
+DUOX2	involved-in	Amine-derived hormones	ncbigene:50506		gene	true	REACT:R-HSA-209776		pathway			29180	4525	124
+DUOX2	involved-in	Metabolism	ncbigene:50506		gene	true	REACT:R-HSA-1430728		pathway			29181	4525	22
+DUOX2	involved-in	Metabolism of amino acids and derivatives	ncbigene:50506		gene	true	REACT:R-HSA-71291		pathway			29182	4525	115
+DUOX2	involved-in	Thyroid hormone synthesis	ncbigene:50506		gene	true	KEGG:hsa04918		pathway			29183	4525	829
+DUOX2	involved-in	Thyroxine biosynthesis	ncbigene:50506		gene	true	REACT:R-HSA-209968		pathway			29184	4525	3308
+EHD2	involved-in	Endocytosis	ncbigene:30846		gene	true	KEGG:hsa04144		pathway			30936	4648	400
+EHD2	involved-in	Hemostasis	ncbigene:30846		gene	true	REACT:R-HSA-109582		pathway			30938	4648	1
+EPX	involved-in	Immune System	ncbigene:8288		gene	true	REACT:R-HSA-168256		pathway			32570	4839	2
+EPX	involved-in	Innate Immune System	ncbigene:8288		gene	true	REACT:R-HSA-168249		pathway			32571	4839	3
+EPX	involved-in	Neutrophil degranulation	ncbigene:8288		gene	true	REACT:R-HSA-6798695		pathway			32572	4839	4
+ERCC2	involved-in	Disease	ncbigene:2068		gene	true	REACT:R-HSA-1643685		pathway			32855	4851	45
+ERCC2	involved-in	DNA Repair	ncbigene:2068		gene	true	REACT:R-HSA-73894		pathway			32856	4851	294
+ERCC2	involved-in	Dual incision in TC-NER	ncbigene:2068		gene	true	REACT:R-HSA-6782135		pathway			32858	4851	1709
+ERCC2	involved-in	Epigenetic regulation of gene expression	ncbigene:2068		gene	true	REACT:R-HSA-212165		pathway			32859	4851	555
+ERCC2	involved-in	Formation of TC-NER Pre-Incision Complex	ncbigene:2068		gene	true	REACT:R-HSA-6781823		pathway			32864	4851	1710
+ERCC2	involved-in	Gap-filling DNA repair synthesis and ligation in TC-NER	ncbigene:2068		gene	true	REACT:R-HSA-6782210		pathway			32867	4851	1711
+ERCC2	involved-in	Gene Expression	ncbigene:2068		gene	true	REACT:R-HSA-74160		pathway			32868	4851	10
+ERCC2	involved-in	Generic Transcription Pathway	ncbigene:2068		gene	true	REACT:R-HSA-212436		pathway			32869	4851	1013
+ERCC2	involved-in	Global Genome Nucleotide Excision Repair (GG-NER)	ncbigene:2068		gene	true	REACT:R-HSA-5696399		pathway			32870	4851	560
+ERCC2	involved-in	HIV Infection	ncbigene:2068		gene	true	REACT:R-HSA-162906		pathway			32871	4851	50
+ERCC2	involved-in	Infectious disease	ncbigene:2068		gene	true	REACT:R-HSA-5663205		pathway			32876	4851	54
+ERCC2	involved-in	Metabolism	ncbigene:2068		gene	true	REACT:R-HSA-1430728		pathway			32878	4851	22
+ERCC2	involved-in	Nucleotide excision repair	ncbigene:2068		gene	true	KEGG:hsa03420		pathway			32882	4851	2397
+ERCC2	involved-in	Nucleotide Excision Repair	ncbigene:2068		gene	true	REACT:R-HSA-5696398		pathway			32883	4851	565
+ERCC2	involved-in	RNA Polymerase I Promoter Clearance	ncbigene:2068		gene	true	REACT:R-HSA-73854		pathway			32895	4851	2951
+ERCC2	involved-in	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	ncbigene:2068		gene	true	REACT:R-HSA-504046		pathway			32897	4851	2349
+ERCC2	involved-in	RNA Polymerase I Transcription	ncbigene:2068		gene	true	REACT:R-HSA-73864		pathway			32898	4851	2802
+ERCC2	involved-in	RNA Polymerase I Transcription Initiation	ncbigene:2068		gene	true	REACT:R-HSA-73762		pathway			32899	4851	2953
+ERCC2	involved-in	TP53 Regulates Transcription of DNA Repair Genes	ncbigene:2068		gene	true	REACT:R-HSA-6796648		pathway			32902	4851	1987
+ERCC2	involved-in	Transcriptional Regulation by TP53	ncbigene:2068		gene	true	REACT:R-HSA-3700989		pathway			32903	4851	1027
+ERCC2	involved-in	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	ncbigene:2068		gene	true	REACT:R-HSA-6781827		pathway			32904	4851	1713
+ERCC6	involved-in	B-WICH complex positively regulates rRNA expression	ncbigene:2074		gene	true	REACT:R-HSA-5250924		pathway			32979	4855	546
+ERCC6	involved-in	DNA Repair	ncbigene:2074		gene	true	REACT:R-HSA-73894		pathway			32980	4855	294
+ERCC6	involved-in	Dual incision in TC-NER	ncbigene:2074		gene	true	REACT:R-HSA-6782135		pathway			32981	4855	1709
+ERCC6	involved-in	Epigenetic regulation of gene expression	ncbigene:2074		gene	true	REACT:R-HSA-212165		pathway			32982	4855	555
+ERCC6	involved-in	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression	ncbigene:2074		gene	true	REACT:R-HSA-427389		pathway	true		32983	4855	2832
+ERCC6	involved-in	Formation of TC-NER Pre-Incision Complex	ncbigene:2074		gene	true	REACT:R-HSA-6781823		pathway			32984	4855	1710
+ERCC6	involved-in	Gap-filling DNA repair synthesis and ligation in TC-NER	ncbigene:2074		gene	true	REACT:R-HSA-6782210		pathway			32985	4855	1711
+ERCC6	involved-in	Gene Expression	ncbigene:2074		gene	true	REACT:R-HSA-74160		pathway			32986	4855	10
+ERCC6	involved-in	Nucleotide excision repair	ncbigene:2074		gene	true	KEGG:hsa03420		pathway			32987	4855	2397
+ERCC6	involved-in	Nucleotide Excision Repair	ncbigene:2074		gene	true	REACT:R-HSA-5696398		pathway			32988	4855	565
+ERCC6	involved-in	Positive epigenetic regulation of rRNA expression	ncbigene:2074		gene	true	REACT:R-HSA-5250913		pathway			32989	4855	569
+ERCC6	involved-in	RNA Polymerase I Promoter Clearance	ncbigene:2074		gene	true	REACT:R-HSA-73854		pathway			32990	4855	2951
+ERCC6	involved-in	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	ncbigene:2074		gene	true	REACT:R-HSA-504046		pathway			32991	4855	2349
+ERCC6	involved-in	RNA Polymerase I Transcription	ncbigene:2074		gene	true	REACT:R-HSA-73864		pathway			32992	4855	2802
+ERCC6	involved-in	RNA Polymerase I Transcription Initiation	ncbigene:2074		gene	true	REACT:R-HSA-73762		pathway			32993	4855	2953
+ERCC6	involved-in	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	ncbigene:2074		gene	true	REACT:R-HSA-6781827		pathway			32994	4855	1713
+FANCC	involved-in	DNA Repair	ncbigene:2176		gene	true	REACT:R-HSA-73894		pathway			34080	4997	294
+FANCC	involved-in	Gene Expression	ncbigene:2176		gene	true	REACT:R-HSA-74160		pathway			34084	4997	10
+FANCC	involved-in	Generic Transcription Pathway	ncbigene:2176		gene	true	REACT:R-HSA-212436		pathway			34085	4997	1013
+FANCC	involved-in	TP53 Regulates Transcription of DNA Repair Genes	ncbigene:2176		gene	true	REACT:R-HSA-6796648		pathway			34086	4997	1987
+FANCC	involved-in	Transcriptional Regulation by TP53	ncbigene:2176		gene	true	REACT:R-HSA-3700989		pathway			34087	4997	1027
+FMO2	involved-in	Biological oxidations	ncbigene:2327		gene	true	REACT:R-HSA-211859		pathway			37751	5267	105
+FMO2	involved-in	Drug metabolism - cytochrome P450	ncbigene:2327		gene	true	KEGG:hsa00982		pathway			37752	5267	874
+FMO2	involved-in	Metabolism	ncbigene:2327		gene	true	REACT:R-HSA-1430728		pathway			37754	5267	22
+FMO2	involved-in	Phase 1 - Functionalization of compounds	ncbigene:2327		gene	true	REACT:R-HSA-211945		pathway			37755	5267	106
+FTH1	involved-in	Binding and Uptake of Ligands by Scavenger Receptors	ncbigene:2495		gene	true	REACT:R-HSA-2173782		pathway			38436	5329	1274
+FTH1	involved-in	Clathrin derived vesicle budding	ncbigene:2495		gene	true	REACT:R-HSA-421837		pathway			38437	5329	412
+FTH1	involved-in	Ferroptosis	ncbigene:2495		gene	true	KEGG:hsa04216		pathway			38438	5329	517
+FTH1	involved-in	Golgi Associated Vesicle Biogenesis	ncbigene:2495		gene	true	REACT:R-HSA-432722		pathway			38439	5329	413
+FTH1	involved-in	Immune System	ncbigene:2495		gene	true	REACT:R-HSA-168256		pathway			38440	5329	2
+FTH1	involved-in	Innate Immune System	ncbigene:2495		gene	true	REACT:R-HSA-168249		pathway			38441	5329	3
+FTH1	involved-in	Iron uptake and transport	ncbigene:2495		gene	true	REACT:R-HSA-917937		pathway			38442	5329	247
+FTH1	involved-in	Membrane Trafficking	ncbigene:2495		gene	true	REACT:R-HSA-199991		pathway			38443	5329	121
+FTH1	involved-in	Mineral absorption	ncbigene:2495		gene	true	KEGG:hsa04978		pathway			38444	5329	2043
+FTH1	involved-in	Neutrophil degranulation	ncbigene:2495		gene	true	REACT:R-HSA-6798695		pathway			38445	5329	4
+FTH1	involved-in	Scavenging by Class A Receptors	ncbigene:2495		gene	true	REACT:R-HSA-3000480		pathway			38446	5329	1644
+FTH1	involved-in	trans-Golgi Network Vesicle Budding	ncbigene:2495		gene	true	REACT:R-HSA-199992		pathway			38447	5329	414
+FTH1	involved-in	Transmembrane transport of small molecules	ncbigene:2495		gene	true	REACT:R-HSA-382551		pathway			38448	5329	86
+FTH1	involved-in	Vesicle-mediated transport	ncbigene:2495		gene	true	REACT:R-HSA-5653656		pathway			38449	5329	122
+GCLC	involved-in	Biological oxidations	ncbigene:2729		gene	true	REACT:R-HSA-211859		pathway			40248	5529	105
+GCLC	involved-in	Cysteine and methionine metabolism	ncbigene:2729		gene	true	KEGG:hsa00270		pathway			40249	5529	889
+GCLC	involved-in	Ferroptosis	ncbigene:2729		gene	true	KEGG:hsa04216		pathway			40250	5529	517
+GCLC	involved-in	Glutathione biosynthesis, glutamate => glutathione	ncbigene:2729		gene	true	KEGG:hsa_M00118		pathway			40251	5529	5530
+GCLC	involved-in	Glutathione conjugation	ncbigene:2729		gene	true	REACT:R-HSA-156590		pathway			40252	5529	1149
+GCLC	involved-in	Glutathione metabolism	ncbigene:2729		gene	true	KEGG:hsa00480		pathway			40253	5529	1521
+GCLC	involved-in	Glutathione synthesis and recycling	ncbigene:2729		gene	true	REACT:R-HSA-174403		pathway			40254	5529	3318
+GCLC	involved-in	Metabolic pathways	ncbigene:2729		gene	true	KEGG:hsa01100		pathway			40255	5529	32
+GCLC	involved-in	Metabolism	ncbigene:2729		gene	true	REACT:R-HSA-1430728		pathway			40256	5529	22
+GCLC	involved-in	Metabolism of amino acids and derivatives	ncbigene:2729		gene	true	REACT:R-HSA-71291		pathway			40257	5529	115
+GCLC	involved-in	Phase II conjugation	ncbigene:2729		gene	true	REACT:R-HSA-156580		pathway			40258	5529	254
+GCLC	involved-in	Sulfur amino acid metabolism	ncbigene:2729		gene	true	REACT:R-HSA-1614635		pathway			40259	5529	892
+GCLM	involved-in	Biological oxidations	ncbigene:2730		gene	true	REACT:R-HSA-211859		pathway			40260	5531	105
+GCLM	involved-in	Cysteine and methionine metabolism	ncbigene:2730		gene	true	KEGG:hsa00270		pathway			40261	5531	889
+GCLM	involved-in	Ferroptosis	ncbigene:2730		gene	true	KEGG:hsa04216		pathway			40262	5531	517
+GCLM	involved-in	Glutathione biosynthesis, glutamate => glutathione	ncbigene:2730		gene	true	KEGG:hsa_M00118		pathway			40263	5531	5530
+GCLM	involved-in	Glutathione conjugation	ncbigene:2730		gene	true	REACT:R-HSA-156590		pathway			40264	5531	1149
+GCLM	involved-in	Glutathione metabolism	ncbigene:2730		gene	true	KEGG:hsa00480		pathway			40265	5531	1521
+GCLM	involved-in	Glutathione synthesis and recycling	ncbigene:2730		gene	true	REACT:R-HSA-174403		pathway			40266	5531	3318
+GCLM	involved-in	Metabolic pathways	ncbigene:2730		gene	true	KEGG:hsa01100		pathway			40267	5531	32
+GCLM	involved-in	Metabolism	ncbigene:2730		gene	true	REACT:R-HSA-1430728		pathway			40268	5531	22
+GCLM	involved-in	Metabolism of amino acids and derivatives	ncbigene:2730		gene	true	REACT:R-HSA-71291		pathway			40269	5531	115
+GCLM	involved-in	Phase II conjugation	ncbigene:2730		gene	true	REACT:R-HSA-156580		pathway			40270	5531	254
+GCLM	involved-in	Sulfur amino acid metabolism	ncbigene:2730		gene	true	REACT:R-HSA-1614635		pathway			40271	5531	892
+GPX1	involved-in	Amyotrophic lateral sclerosis (ALS)	ncbigene:2876		gene	true	KEGG:hsa05014		pathway			43898	5827	1376
+GPX1	involved-in	Arachidonic acid metabolism	ncbigene:2876		gene	true	REACT:R-HSA-2142753		pathway			43899	5827	200
+GPX1	involved-in	Arachidonic acid metabolism	ncbigene:2876		gene	true	REACT:R-HSA-2142753		pathway			43900	5827	200
+GPX1	involved-in	Cellular responses to stress	ncbigene:2876		gene	true	REACT:R-HSA-2262752		pathway			43901	5827	42
+GPX1	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2876		gene	true	REACT:R-HSA-3299685		pathway			43902	5827	1706
+GPX1	involved-in	Glutathione metabolism	ncbigene:2876		gene	true	KEGG:hsa00480		pathway			43903	5827	1521
+GPX1	involved-in	Huntington's disease	ncbigene:2876		gene	true	KEGG:hsa05016		pathway			43904	5827	1554
+GPX1	involved-in	Metabolism	ncbigene:2876		gene	true	REACT:R-HSA-1430728		pathway			43905	5827	22
+GPX1	involved-in	Metabolism of lipids and lipoproteins	ncbigene:2876		gene	true	REACT:R-HSA-556833		pathway			43906	5827	23
+GPX1	involved-in	Metabolism of nucleotides	ncbigene:2876		gene	true	REACT:R-HSA-15869		pathway			43907	5827	686
+GPX1	involved-in	Purine catabolism	ncbigene:2876		gene	true	REACT:R-HSA-74259		pathway			43908	5827	2788
+GPX1	involved-in	Purine metabolism	ncbigene:2876		gene	true	REACT:R-HSA-73847		pathway			43909	5827	688
+GPX1	involved-in	Synthesis of 12-eicosatetraenoic acid derivatives	ncbigene:2876		gene	true	REACT:R-HSA-2142712		pathway			43910	5827	1356
+GPX1	involved-in	Synthesis of 15-eicosatetraenoic acid derivatives	ncbigene:2876		gene	true	REACT:R-HSA-2142770		pathway			43911	5827	1362
+GPX1	involved-in	Synthesis of 5-eicosatetraenoic acids	ncbigene:2876		gene	true	REACT:R-HSA-2142688		pathway			43912	5827	1365
+GPX1	involved-in	Thyroid hormone synthesis	ncbigene:2876		gene	true	KEGG:hsa04918		pathway			43913	5827	829
+GPX2	involved-in	Arachidonic acid metabolism	ncbigene:2877		gene	true	REACT:R-HSA-2142753		pathway			43914	5828	200
+GPX2	involved-in	Arachidonic acid metabolism	ncbigene:2877		gene	true	REACT:R-HSA-2142753		pathway			43915	5828	200
+GPX2	involved-in	Cellular responses to stress	ncbigene:2877		gene	true	REACT:R-HSA-2262752		pathway			43916	5828	42
+GPX2	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2877		gene	true	REACT:R-HSA-3299685		pathway			43917	5828	1706
+GPX2	involved-in	Gene Expression	ncbigene:2877		gene	true	REACT:R-HSA-74160		pathway			43918	5828	10
+GPX2	involved-in	Generic Transcription Pathway	ncbigene:2877		gene	true	REACT:R-HSA-212436		pathway			43919	5828	1013
+GPX2	involved-in	Glutathione metabolism	ncbigene:2877		gene	true	KEGG:hsa00480		pathway			43920	5828	1521
+GPX2	involved-in	Metabolism	ncbigene:2877		gene	true	REACT:R-HSA-1430728		pathway			43921	5828	22
+GPX2	involved-in	Metabolism of lipids and lipoproteins	ncbigene:2877		gene	true	REACT:R-HSA-556833		pathway			43922	5828	23
+GPX2	involved-in	Synthesis of 12-eicosatetraenoic acid derivatives	ncbigene:2877		gene	true	REACT:R-HSA-2142712		pathway			43923	5828	1356
+GPX2	involved-in	Synthesis of 15-eicosatetraenoic acid derivatives	ncbigene:2877		gene	true	REACT:R-HSA-2142770		pathway			43924	5828	1362
+GPX2	involved-in	Synthesis of 5-eicosatetraenoic acids	ncbigene:2877		gene	true	REACT:R-HSA-2142688		pathway			43925	5828	1365
+GPX2	involved-in	Thyroid hormone synthesis	ncbigene:2877		gene	true	KEGG:hsa04918		pathway			43926	5828	829
+GPX2	involved-in	TP53 Regulates Metabolic Genes	ncbigene:2877		gene	true	REACT:R-HSA-5628897		pathway			43927	5828	1026
+GPX2	involved-in	Transcriptional Regulation by TP53	ncbigene:2877		gene	true	REACT:R-HSA-3700989		pathway			43928	5828	1027
+GPX3	involved-in	Arachidonic acid metabolism	ncbigene:2878		gene	true	REACT:R-HSA-2142753		pathway			43929	5829	200
+GPX3	involved-in	Cellular responses to stress	ncbigene:2878		gene	true	REACT:R-HSA-2262752		pathway			43930	5829	42
+GPX3	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2878		gene	true	REACT:R-HSA-3299685		pathway			43931	5829	1706
+GPX3	involved-in	Glutathione metabolism	ncbigene:2878		gene	true	KEGG:hsa00480		pathway			43932	5829	1521
+GPX3	involved-in	Thyroid hormone synthesis	ncbigene:2878		gene	true	KEGG:hsa04918		pathway			43933	5829	829
+GPX4	involved-in	Arachidonic acid metabolism	ncbigene:2879		gene	true	REACT:R-HSA-2142753		pathway			43934	5830	200
+GPX4	involved-in	Ferroptosis	ncbigene:2879		gene	true	KEGG:hsa04216		pathway			43935	5830	517
+GPX4	involved-in	Glutathione metabolism	ncbigene:2879		gene	true	KEGG:hsa00480		pathway			43936	5830	1521
+GPX4	involved-in	Metabolism	ncbigene:2879		gene	true	REACT:R-HSA-1430728		pathway			43937	5830	22
+GPX4	involved-in	Metabolism of lipids and lipoproteins	ncbigene:2879		gene	true	REACT:R-HSA-556833		pathway			43938	5830	23
+GPX4	involved-in	Synthesis of 12-eicosatetraenoic acid derivatives	ncbigene:2879		gene	true	REACT:R-HSA-2142712		pathway			43939	5830	1356
+GPX4	involved-in	Synthesis of 15-eicosatetraenoic acid derivatives	ncbigene:2879		gene	true	REACT:R-HSA-2142770		pathway			43940	5830	1362
+GPX4	involved-in	Synthesis of 5-eicosatetraenoic acids	ncbigene:2879		gene	true	REACT:R-HSA-2142688		pathway			43941	5830	1365
+GPX5	involved-in	Arachidonic acid metabolism	ncbigene:2880		gene	true	REACT:R-HSA-2142753		pathway			43942	5831	200
+GPX5	involved-in	Cellular responses to stress	ncbigene:2880		gene	true	REACT:R-HSA-2262752		pathway			43943	5831	42
+GPX5	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2880		gene	true	REACT:R-HSA-3299685		pathway			43944	5831	1706
+GPX5	involved-in	Glutathione metabolism	ncbigene:2880		gene	true	KEGG:hsa00480		pathway			43945	5831	1521
+GPX5	involved-in	Thyroid hormone synthesis	ncbigene:2880		gene	true	KEGG:hsa04918		pathway			43946	5831	829
+GPX6	involved-in	Arachidonic acid metabolism	ncbigene:257202		gene	true	REACT:R-HSA-2142753		pathway			43947	5832	200
+GPX6	involved-in	Cellular responses to stress	ncbigene:257202		gene	true	REACT:R-HSA-2262752		pathway			43948	5832	42
+GPX6	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:257202		gene	true	REACT:R-HSA-3299685		pathway			43949	5832	1706
+GPX6	involved-in	Glutathione metabolism	ncbigene:257202		gene	true	KEGG:hsa00480		pathway			43950	5832	1521
+GPX6	involved-in	Thyroid hormone synthesis	ncbigene:257202		gene	true	KEGG:hsa04918		pathway			43951	5832	829
+GPX7	involved-in	Arachidonic acid metabolism	ncbigene:2882		gene	true	REACT:R-HSA-2142753		pathway			43952	5833	200
+GPX7	involved-in	Cellular responses to stress	ncbigene:2882		gene	true	REACT:R-HSA-2262752		pathway			43953	5833	42
+GPX7	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2882		gene	true	REACT:R-HSA-3299685		pathway			43954	5833	1706
+GPX7	involved-in	Glutathione metabolism	ncbigene:2882		gene	true	KEGG:hsa00480		pathway			43955	5833	1521
+GPX7	involved-in	Thyroid hormone synthesis	ncbigene:2882		gene	true	KEGG:hsa04918		pathway			43956	5833	829
+GSK3B	involved-in	Adaptive Immune System	ncbigene:2932		gene		REACT:R-HSA-1280218		pathway			44994	5894	647
+GSK3B	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:2932		gene		REACT:R-HSA-5467337		pathway	true		44998	5894	1399
+GSK3B	involved-in	Axon guidance	ncbigene:2932		gene		REACT:R-HSA-422475		pathway			45001	5894	287
+GSK3B	involved-in	Axon guidance	ncbigene:2932		gene		REACT:R-HSA-422475		pathway			45002	5894	287
+GSK3B	involved-in	B-WICH complex positively regulates rRNA expression	ncbigene:2932		gene		REACT:R-HSA-5250924		pathway			45007	5894	546
+GSK3B	involved-in	Cellular responses to stress	ncbigene:2932		gene		REACT:R-HSA-2262752		pathway			45009	5894	42
+GSK3B	involved-in	Chemokine signaling pathway	ncbigene:2932		gene		KEGG:hsa04062		pathway			45011	5894	794
+GSK3B	involved-in	DAP12 interactions	ncbigene:2932		gene		REACT:R-HSA-2172127		pathway			45015	5894	604
+GSK3B	involved-in	DAP12 signaling	ncbigene:2932		gene		REACT:R-HSA-2424491		pathway			45016	5894	605
+GSK3B	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:2932		gene		REACT:R-HSA-195253		pathway			45017	5894	946
+GSK3B	involved-in	Developmental Biology	ncbigene:2932		gene		REACT:R-HSA-1266738		pathway			45019	5894	291
+GSK3B	involved-in	Disease	ncbigene:2932		gene		REACT:R-HSA-1643685		pathway			45021	5894	45
+GSK3B	involved-in	Diseases of signal transduction	ncbigene:2932		gene		REACT:R-HSA-5663202		pathway			45022	5894	701
+GSK3B	involved-in	Epigenetic regulation of gene expression	ncbigene:2932		gene		REACT:R-HSA-212165		pathway			45028	5894	555
+GSK3B	involved-in	Epstein-Barr virus infection	ncbigene:2932		gene		KEGG:hsa05169		pathway			45029	5894	933
+GSK3B	involved-in	Gene Expression	ncbigene:2932		gene		REACT:R-HSA-74160		pathway			45034	5894	10
+GSK3B	involved-in	Hedgehog 'off' state	ncbigene:2932		gene		REACT:R-HSA-5610787		pathway			45036	5894	809
+GSK3B	involved-in	Hippo signaling pathway	ncbigene:2932		gene		KEGG:hsa04390		pathway			45039	5894	562
+GSK3B	involved-in	Immune System	ncbigene:2932		gene		REACT:R-HSA-168256		pathway			45042	5894	2
+GSK3B	involved-in	Influenza A	ncbigene:2932		gene		KEGG:hsa05164		pathway			45043	5894	563
+GSK3B	involved-in	Innate Immune System	ncbigene:2932		gene		REACT:R-HSA-168249		pathway			45044	5894	3
+GSK3B	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:2932		gene		REACT:R-HSA-187037		pathway			45052	5894	622
+GSK3B	involved-in	Pathways in cancer	ncbigene:2932		gene		KEGG:hsa05200		pathway			45054	5894	303
+GSK3B	involved-in	Positive epigenetic regulation of rRNA expression	ncbigene:2932		gene		REACT:R-HSA-5250913		pathway			45060	5894	569
+GSK3B	involved-in	Signaling by Hedgehog	ncbigene:2932		gene		REACT:R-HSA-5358351		pathway			45070	5894	729
+GSK3B	involved-in	Signaling by Wnt	ncbigene:2932		gene		REACT:R-HSA-195721		pathway			45074	5894	948
+GSK3B	involved-in	Signalling by NGF	ncbigene:2932		gene		REACT:R-HSA-166520		pathway			45077	5894	144
+GSK3B	involved-in	Signal Transduction	ncbigene:2932		gene		REACT:R-HSA-162582		pathway			45078	5894	26
+GSK3B	involved-in	TCF dependent signaling in response to WNT	ncbigene:2932		gene		REACT:R-HSA-201681		pathway			45081	5894	1248
+GSK3B	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:2932		gene		REACT:R-HSA-4839744		pathway	true		45083	5894	1411
+GSR	involved-in	Cellular responses to stress	ncbigene:2936		gene	true	REACT:R-HSA-2262752		pathway			45116	5898	42
+GSR	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2936		gene	true	REACT:R-HSA-3299685		pathway			45117	5898	1706
+GSR	involved-in	Gene Expression	ncbigene:2936		gene	true	REACT:R-HSA-74160		pathway			45118	5898	10
+GSR	involved-in	Generic Transcription Pathway	ncbigene:2936		gene	true	REACT:R-HSA-212436		pathway			45119	5898	1013
+GSR	involved-in	Glutathione metabolism	ncbigene:2936		gene	true	KEGG:hsa00480		pathway			45120	5898	1521
+GSR	involved-in	Metabolism	ncbigene:2936		gene	true	REACT:R-HSA-1430728		pathway			45121	5898	22
+GSR	involved-in	Metabolism of amino acids and derivatives	ncbigene:2936		gene	true	REACT:R-HSA-71291		pathway			45122	5898	115
+GSR	involved-in	Metabolism of ingested H2SeO4 and H2SeO3 into H2Se	ncbigene:2936		gene	true	REACT:R-HSA-2408550		pathway			45123	5898	5899
+GSR	involved-in	Metabolism of nucleotides	ncbigene:2936		gene	true	REACT:R-HSA-15869		pathway			45124	5898	686
+GSR	involved-in	Selenoamino acid metabolism	ncbigene:2936		gene	true	REACT:R-HSA-2408522		pathway			45125	5898	1080
+GSR	involved-in	Synthesis and interconversion of nucleotide di- and triphosphates	ncbigene:2936		gene	true	REACT:R-HSA-499943		pathway			45126	5898	1125
+GSR	involved-in	Thyroid hormone synthesis	ncbigene:2936		gene	true	KEGG:hsa04918		pathway			45127	5898	829
+GSR	involved-in	TP53 Regulates Metabolic Genes	ncbigene:2936		gene	true	REACT:R-HSA-5628897		pathway			45128	5898	1026
+GSR	involved-in	Transcriptional Regulation by TP53	ncbigene:2936		gene	true	REACT:R-HSA-3700989		pathway			45129	5898	1027
+GSTK1	involved-in	Biological oxidations	ncbigene:373156		gene	true	REACT:R-HSA-211859		pathway			45190	5906	105
+GSTK1	involved-in	Chemical carcinogenesis	ncbigene:373156		gene	true	KEGG:hsa05204		pathway			45191	5906	873
+GSTK1	involved-in	Drug metabolism - cytochrome P450	ncbigene:373156		gene	true	KEGG:hsa00982		pathway			45192	5906	874
+GSTK1	involved-in	Glutathione conjugation	ncbigene:373156		gene	true	REACT:R-HSA-156590		pathway			45193	5906	1149
+GSTK1	involved-in	Glutathione metabolism	ncbigene:373156		gene	true	KEGG:hsa00480		pathway			45194	5906	1521
+GSTK1	involved-in	Metabolism	ncbigene:373156		gene	true	REACT:R-HSA-1430728		pathway			45195	5906	22
+GSTK1	involved-in	Metabolism of xenobiotics by cytochrome P450	ncbigene:373156		gene	true	KEGG:hsa00980		pathway			45196	5906	875
+GSTK1	involved-in	Peroxisome	ncbigene:373156		gene	true	KEGG:hsa04146		pathway			45197	5906	239
+GSTK1	involved-in	Phase II conjugation	ncbigene:373156		gene	true	REACT:R-HSA-156580		pathway			45198	5906	254
+GSTP1	involved-in	Biological oxidations	ncbigene:2950		gene	true	REACT:R-HSA-211859		pathway			45276	5914	105
+GSTP1	involved-in	Cellular responses to stress	ncbigene:2950		gene	true	REACT:R-HSA-2262752		pathway			45277	5914	42
+GSTP1	involved-in	Chemical carcinogenesis	ncbigene:2950		gene	true	KEGG:hsa05204		pathway			45278	5914	873
+GSTP1	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:2950		gene	true	REACT:R-HSA-3299685		pathway			45279	5914	1706
+GSTP1	involved-in	Drug metabolism - cytochrome P450	ncbigene:2950		gene	true	KEGG:hsa00982		pathway			45280	5914	874
+GSTP1	involved-in	Fluid shear stress and atherosclerosis	ncbigene:2950		gene	true	KEGG:hsa05418		pathway			45281	5914	556
+GSTP1	involved-in	Glutathione conjugation	ncbigene:2950		gene	true	REACT:R-HSA-156590		pathway			45282	5914	1149
+GSTP1	involved-in	Glutathione metabolism	ncbigene:2950		gene	true	KEGG:hsa00480		pathway			45283	5914	1521
+GSTP1	involved-in	Immune System	ncbigene:2950		gene	true	REACT:R-HSA-168256		pathway			45284	5914	2
+GSTP1	involved-in	Innate Immune System	ncbigene:2950		gene	true	REACT:R-HSA-168249		pathway			45285	5914	3
+GSTP1	involved-in	Metabolism	ncbigene:2950		gene	true	REACT:R-HSA-1430728		pathway			45286	5914	22
+GSTP1	involved-in	Metabolism of xenobiotics by cytochrome P450	ncbigene:2950		gene	true	KEGG:hsa00980		pathway			45287	5914	875
+GSTP1	involved-in	Neutrophil degranulation	ncbigene:2950		gene	true	REACT:R-HSA-6798695		pathway			45288	5914	4
+GSTP1	involved-in	Pathways in cancer	ncbigene:2950		gene	true	KEGG:hsa05200		pathway			45289	5914	303
+GSTP1	involved-in	Phase II conjugation	ncbigene:2950		gene	true	REACT:R-HSA-156580		pathway			45290	5914	254
+HBA1	involved-in	Binding and Uptake of Ligands by Scavenger Receptors	ncbigene:3039		gene	true	REACT:R-HSA-2173782		pathway			46786	6033	1274
+HBA1	involved-in	Metabolism	ncbigene:3039		gene	true	REACT:R-HSA-1430728		pathway			46790	6033	22
+HBA1	involved-in	Scavenging of heme from plasma	ncbigene:3039		gene	true	REACT:R-HSA-2168880		pathway			46792	6033	1277
+HBA1	involved-in	Vesicle-mediated transport	ncbigene:3039		gene	true	REACT:R-HSA-5653656		pathway			46793	6033	122
+HMOX1	involved-in	Cytokine Signaling in Immune system	ncbigene:3162		gene	true	REACT:R-HSA-1280215		pathway			52321	6244	44
+HMOX1	involved-in	Ferroptosis	ncbigene:3162		gene	true	KEGG:hsa04216		pathway			52322	6244	517
+HMOX1	involved-in	Fluid shear stress and atherosclerosis	ncbigene:3162		gene	true	KEGG:hsa05418		pathway			52323	6244	556
+HMOX1	involved-in	HIF-1 signaling pathway	ncbigene:3162		gene	true	KEGG:hsa04066		pathway			52325	6244	1210
+HMOX1	involved-in	Immune System	ncbigene:3162		gene	true	REACT:R-HSA-168256		pathway			52326	6244	2
+HMOX1	involved-in	Interleukin-4 and 13 signaling	ncbigene:3162		gene	true	REACT:R-HSA-6785807		pathway			52327	6244	1212
+HMOX1	involved-in	Iron uptake and transport	ncbigene:3162		gene	true	REACT:R-HSA-917937		pathway			52328	6244	247
+HMOX1	involved-in	Metabolic pathways	ncbigene:3162		gene	true	KEGG:hsa01100		pathway			52329	6244	32
+HMOX1	involved-in	Metabolism	ncbigene:3162		gene	true	REACT:R-HSA-1430728		pathway			52330	6244	22
+HMOX1	involved-in	MicroRNAs in cancer	ncbigene:3162		gene	true	KEGG:hsa05206		pathway			52332	6244	182
+HMOX1	involved-in	Mineral absorption	ncbigene:3162		gene	true	KEGG:hsa04978		pathway			52333	6244	2043
+HMOX1	involved-in	Signaling by Interleukins	ncbigene:3162		gene	true	REACT:R-HSA-449147		pathway			52335	6244	631
+HMOX1	involved-in	Transmembrane transport of small molecules	ncbigene:3162		gene	true	REACT:R-HSA-382551		pathway			52336	6244	86
+HPRT1	involved-in	Metabolic pathways	ncbigene:3251		gene	true	KEGG:hsa01100		pathway			52584	6294	32
+HPRT1	involved-in	Metabolism	ncbigene:3251		gene	true	REACT:R-HSA-1430728		pathway			52585	6294	22
+HPRT1	involved-in	Metabolism of nucleotides	ncbigene:3251		gene	true	REACT:R-HSA-15869		pathway			52586	6294	686
+HPRT1	involved-in	Purine metabolism	ncbigene:3251		gene	true	REACT:R-HSA-73847		pathway			52587	6294	688
+HPRT1	involved-in	Purine metabolism	ncbigene:3251		gene	true	REACT:R-HSA-73847		pathway			52588	6294	688
+HSPA1A	involved-in	Antigen processing and presentation	ncbigene:3303		gene	true	KEGG:hsa04612		pathway			53242	6354	2185
+HSPA1A	involved-in	AUF1 (hnRNP D0) binds and destabilizes mRNA	ncbigene:3303		gene	true	REACT:R-HSA-450408		pathway			53244	6354	4710
+HSPA1A	involved-in	Cellular responses to stress	ncbigene:3303		gene	true	REACT:R-HSA-2262752		pathway			53245	6354	42
+HSPA1A	involved-in	Disease	ncbigene:3303		gene	true	REACT:R-HSA-1643685		pathway			53247	6354	45
+HSPA1A	involved-in	Endocytosis	ncbigene:3303		gene	true	KEGG:hsa04144		pathway			53248	6354	400
+HSPA1A	involved-in	Epstein-Barr virus infection	ncbigene:3303		gene	true	KEGG:hsa05169		pathway			53249	6354	933
+HSPA1A	involved-in	Gene Expression	ncbigene:3303		gene	true	REACT:R-HSA-74160		pathway			53252	6354	10
+HSPA1A	involved-in	Immune System	ncbigene:3303		gene	true	REACT:R-HSA-168256		pathway			53254	6354	2
+HSPA1A	involved-in	Infectious disease	ncbigene:3303		gene	true	REACT:R-HSA-5663205		pathway			53255	6354	54
+HSPA1A	involved-in	Influenza A	ncbigene:3303		gene	true	KEGG:hsa05164		pathway			53256	6354	563
+HSPA1A	involved-in	Influenza Infection	ncbigene:3303		gene	true	REACT:R-HSA-168254		pathway			53257	6354	55
+HSPA1A	involved-in	Influenza Life Cycle	ncbigene:3303		gene	true	REACT:R-HSA-168255		pathway			53258	6354	56
+HSPA1A	involved-in	Innate Immune System	ncbigene:3303		gene	true	REACT:R-HSA-168249		pathway			53259	6354	3
+HSPA1A	involved-in	Longevity regulating pathway - multiple species	ncbigene:3303		gene	true	KEGG:hsa04213		pathway			53261	6354	814
+HSPA1A	involved-in	Neutrophil degranulation	ncbigene:3303		gene	true	REACT:R-HSA-6798695		pathway			53264	6354	4
+HSPA1A	involved-in	Prion diseases	ncbigene:3303		gene	true	KEGG:hsa05020		pathway			53265	6354	2278
+HSPA1A	involved-in	Regulation of mRNA stability by proteins that bind AU-rich elements	ncbigene:3303		gene	true	REACT:R-HSA-450531		pathway			53268	6354	1237
+HSPA1A	involved-in	Toxoplasmosis	ncbigene:3303		gene	true	KEGG:hsa05145		pathway			53272	6354	1252
+IDH1	involved-in	Carbon metabolism	ncbigene:3417		gene	true	KEGG:hsa01200		pathway			53940	6428	377
+IDH1	involved-in	Central carbon metabolism in cancer	ncbigene:3417		gene	true	KEGG:hsa05230		pathway			53941	6428	1187
+IDH1	involved-in	Disease	ncbigene:3417		gene	true	REACT:R-HSA-1643685		pathway			53945	6428	45
+IDH1	involved-in	Glutathione metabolism	ncbigene:3417		gene	true	KEGG:hsa00480		pathway			53947	6428	1521
+IDH1	involved-in	Immune System	ncbigene:3417		gene	true	REACT:R-HSA-168256		pathway			53948	6428	2
+IDH1	involved-in	Innate Immune System	ncbigene:3417		gene	true	REACT:R-HSA-168249		pathway			53949	6428	3
+IDH1	involved-in	Metabolic pathways	ncbigene:3417		gene	true	KEGG:hsa01100		pathway			53950	6428	32
+IDH1	involved-in	Metabolism	ncbigene:3417		gene	true	REACT:R-HSA-1430728		pathway			53951	6428	22
+IDH1	involved-in	Metabolism of lipids and lipoproteins	ncbigene:3417		gene	true	REACT:R-HSA-556833		pathway			53952	6428	23
+IDH1	involved-in	Neutrophil degranulation	ncbigene:3417		gene	true	REACT:R-HSA-6798695		pathway			53954	6428	4
+IDH1	involved-in	Peroxisome	ncbigene:3417		gene	true	KEGG:hsa04146		pathway			53956	6428	239
+IFT172	involved-in	Hedgehog 'off' state	ncbigene:26160		gene	true	REACT:R-HSA-5610787		pathway			54665	6486	809
+IFT172	involved-in	Signaling by Hedgehog	ncbigene:26160		gene	true	REACT:R-HSA-5358351		pathway			54668	6486	729
+IFT172	involved-in	Signal Transduction	ncbigene:26160		gene	true	REACT:R-HSA-162582		pathway			54669	6486	26
+KRT1	involved-in	Developmental Biology	ncbigene:3848		gene	true	REACT:R-HSA-1266738		pathway			61808	7122	291
+KRT1	involved-in	Immune System	ncbigene:3848		gene	true	REACT:R-HSA-168256		pathway			61809	7122	2
+KRT1	involved-in	Innate Immune System	ncbigene:3848		gene	true	REACT:R-HSA-168249		pathway			61810	7122	3
+KRT1	involved-in	Neutrophil degranulation	ncbigene:3848		gene	true	REACT:R-HSA-6798695		pathway			61812	7122	4
+LDHA	involved-in	Central carbon metabolism in cancer	ncbigene:3939		gene	true	KEGG:hsa05230		pathway			63016	7348	1187
+LDHA	involved-in	Cysteine and methionine metabolism	ncbigene:3939		gene	true	KEGG:hsa00270		pathway			63017	7348	889
+LDHA	involved-in	HIF-1 signaling pathway	ncbigene:3939		gene	true	KEGG:hsa04066		pathway			63020	7348	1210
+LDHA	involved-in	Metabolic pathways	ncbigene:3939		gene	true	KEGG:hsa01100		pathway			63021	7348	32
+LDHA	involved-in	Metabolism	ncbigene:3939		gene	true	REACT:R-HSA-1430728		pathway			63022	7348	22
+LDHA	involved-in	The citric acid (TCA) cycle and respiratory electron transport	ncbigene:3939		gene	true	REACT:R-HSA-1428517		pathway			63027	7348	368
+MPO	involved-in	Immune System	ncbigene:4353		gene	true	REACT:R-HSA-168256		pathway			71188	8253	2
+MPO	involved-in	Innate Immune System	ncbigene:4353		gene	true	REACT:R-HSA-168249		pathway			71189	8253	3
+MPO	involved-in	Neutrophil degranulation	ncbigene:4353		gene	true	REACT:R-HSA-6798695		pathway			71190	8253	4
+MPO	involved-in	Phagosome	ncbigene:4353		gene	true	KEGG:hsa04145		pathway			71191	8253	567
+NCF1	involved-in	Adaptive Immune System	ncbigene:653361		gene	true	REACT:R-HSA-1280218		pathway			73674	8597	647
+NCF1	involved-in	Antigen processing-Cross presentation	ncbigene:653361		gene	true	REACT:R-HSA-1236975		pathway			73675	8597	2186
+NCF1	involved-in	Cellular responses to stress	ncbigene:653361		gene	true	REACT:R-HSA-2262752		pathway			73676	8597	42
+NCF1	involved-in	Chemokine signaling pathway	ncbigene:653361		gene	true	KEGG:hsa04062		pathway			73677	8597	794
+NCF1	involved-in	Class I MHC mediated antigen processing & presentation	ncbigene:653361		gene	true	REACT:R-HSA-983169		pathway			73678	8597	1453
+NCF1	involved-in	Cross-presentation of particulate exogenous antigens (phagosomes)	ncbigene:653361		gene	true	REACT:R-HSA-1236973		pathway			73679	8597	3058
+NCF1	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:653361		gene	true	REACT:R-HSA-3299685		pathway			73680	8597	1706
+NCF1	involved-in	Fc gamma R-mediated phagocytosis	ncbigene:653361		gene	true	KEGG:hsa04666		pathway			73681	8597	1202
+NCF1	involved-in	Fluid shear stress and atherosclerosis	ncbigene:653361		gene	true	KEGG:hsa05418		pathway			73682	8597	556
+NCF1	involved-in	Immune System	ncbigene:653361		gene	true	REACT:R-HSA-168256		pathway			73683	8597	2
+NCF1	involved-in	Innate Immune System	ncbigene:653361		gene	true	REACT:R-HSA-168249		pathway			73684	8597	3
+NCF1	involved-in	Leishmaniasis	ncbigene:653361		gene	true	KEGG:hsa05140		pathway			73685	8597	2578
+NCF1	involved-in	Leukocyte transendothelial migration	ncbigene:653361		gene	true	KEGG:hsa04670		pathway			73686	8597	564
+NCF1	involved-in	Osteoclast differentiation	ncbigene:653361		gene	true	KEGG:hsa04380		pathway			73687	8597	500
+NCF1	involved-in	Phagosome	ncbigene:653361		gene	true	KEGG:hsa04145		pathway			73688	8597	567
+NCF1	involved-in	RHO GTPase Effectors	ncbigene:653361		gene	true	REACT:R-HSA-195258		pathway			73689	8597	280
+NCF1	involved-in	RHO GTPases Activate NADPH Oxidases	ncbigene:653361		gene	true	REACT:R-HSA-5668599		pathway			73690	8597	3988
+NCF1	involved-in	ROS, RNS production in phagocytes	ncbigene:653361		gene	true	REACT:R-HSA-1222556		pathway			73691	8597	2108
+NCF1	involved-in	Signaling by Rho GTPases	ncbigene:653361		gene	true	REACT:R-HSA-194315		pathway			73692	8597	25
+NCF1	involved-in	Signaling by VEGF	ncbigene:653361		gene	true	REACT:R-HSA-194138		pathway			73693	8597	282
+NCF1	involved-in	Signal Transduction	ncbigene:653361		gene	true	REACT:R-HSA-162582		pathway			73694	8597	26
+NCF1	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:653361		gene	true	REACT:R-HSA-4420097		pathway			73695	8597	283
+NCF2	involved-in	Adaptive Immune System	ncbigene:4688		gene	true	REACT:R-HSA-1280218		pathway			73696	8598	647
+NCF2	involved-in	Antigen processing-Cross presentation	ncbigene:4688		gene	true	REACT:R-HSA-1236975		pathway			73697	8598	2186
+NCF2	involved-in	Cellular responses to stress	ncbigene:4688		gene	true	REACT:R-HSA-2262752		pathway			73698	8598	42
+NCF2	involved-in	Class I MHC mediated antigen processing & presentation	ncbigene:4688		gene	true	REACT:R-HSA-983169		pathway			73699	8598	1453
+NCF2	involved-in	Cross-presentation of particulate exogenous antigens (phagosomes)	ncbigene:4688		gene	true	REACT:R-HSA-1236973		pathway			73700	8598	3058
+NCF2	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:4688		gene	true	REACT:R-HSA-3299685		pathway			73701	8598	1706
+NCF2	involved-in	Fluid shear stress and atherosclerosis	ncbigene:4688		gene	true	KEGG:hsa05418		pathway			73702	8598	556
+NCF2	involved-in	Immune System	ncbigene:4688		gene	true	REACT:R-HSA-168256		pathway			73703	8598	2
+NCF2	involved-in	Innate Immune System	ncbigene:4688		gene	true	REACT:R-HSA-168249		pathway			73704	8598	3
+NCF2	involved-in	Leishmaniasis	ncbigene:4688		gene	true	KEGG:hsa05140		pathway			73705	8598	2578
+NCF2	involved-in	Leukocyte transendothelial migration	ncbigene:4688		gene	true	KEGG:hsa04670		pathway			73706	8598	564
+NCF2	involved-in	Osteoclast differentiation	ncbigene:4688		gene	true	KEGG:hsa04380		pathway			73707	8598	500
+NCF2	involved-in	Phagosome	ncbigene:4688		gene	true	KEGG:hsa04145		pathway			73708	8598	567
+NCF2	involved-in	RHO GTPase Effectors	ncbigene:4688		gene	true	REACT:R-HSA-195258		pathway			73709	8598	280
+NCF2	involved-in	RHO GTPases Activate NADPH Oxidases	ncbigene:4688		gene	true	REACT:R-HSA-5668599		pathway			73710	8598	3988
+NCF2	involved-in	ROS, RNS production in phagocytes	ncbigene:4688		gene	true	REACT:R-HSA-1222556		pathway			73711	8598	2108
+NCF2	involved-in	Signaling by Rho GTPases	ncbigene:4688		gene	true	REACT:R-HSA-194315		pathway			73712	8598	25
+NCF2	involved-in	Signaling by VEGF	ncbigene:4688		gene	true	REACT:R-HSA-194138		pathway			73713	8598	282
+NCF2	involved-in	Signal Transduction	ncbigene:4688		gene	true	REACT:R-HSA-162582		pathway			73714	8598	26
+NCF2	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:4688		gene	true	REACT:R-HSA-4420097		pathway			73715	8598	283
+NOS2	involved-in	Chagas disease (American trypanosomiasis)	ncbigene:4843		gene	true	KEGG:hsa05142		pathway			76390	8842	429
+NOS2	involved-in	Cytokine Signaling in Immune system	ncbigene:4843		gene	true	REACT:R-HSA-1280215		pathway			76391	8842	44
+NOS2	involved-in	Hemostasis	ncbigene:4843		gene	true	REACT:R-HSA-109582		pathway			76392	8842	1
+NOS2	involved-in	HIF-1 signaling pathway	ncbigene:4843		gene	true	KEGG:hsa04066		pathway			76393	8842	1210
+NOS2	involved-in	Immune System	ncbigene:4843		gene	true	REACT:R-HSA-168256		pathway			76394	8842	2
+NOS2	involved-in	Innate Immune System	ncbigene:4843		gene	true	REACT:R-HSA-168249		pathway			76395	8842	3
+NOS2	involved-in	Interleukin-4 and 13 signaling	ncbigene:4843		gene	true	REACT:R-HSA-6785807		pathway			76396	8842	1212
+NOS2	involved-in	Leishmaniasis	ncbigene:4843		gene	true	KEGG:hsa05140		pathway			76397	8842	2578
+NOS2	involved-in	Metabolic pathways	ncbigene:4843		gene	true	KEGG:hsa01100		pathway			76398	8842	32
+NOS2	involved-in	Pathways in cancer	ncbigene:4843		gene	true	KEGG:hsa05200		pathway			76400	8842	303
+NOS2	involved-in	Peroxisome	ncbigene:4843		gene	true	KEGG:hsa04146		pathway			76401	8842	239
+NOS2	involved-in	ROS, RNS production in phagocytes	ncbigene:4843		gene	true	REACT:R-HSA-1222556		pathway			76404	8842	2108
+NOS2	involved-in	Salmonella infection	ncbigene:4843		gene	true	KEGG:hsa05132		pathway			76405	8842	575
+NOS2	involved-in	Signaling by Interleukins	ncbigene:4843		gene	true	REACT:R-HSA-449147		pathway			76406	8842	631
+NOS2	involved-in	Small cell lung cancer	ncbigene:4843		gene	true	KEGG:hsa05222		pathway			76407	8842	1246
+NOS2	involved-in	Toxoplasmosis	ncbigene:4843		gene	true	KEGG:hsa05145		pathway			76408	8842	1252
+NOX4	involved-in	Cellular responses to stress	ncbigene:50507		gene	true	REACT:R-HSA-2262752		pathway			76586	8855	42
+NOX4	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:50507		gene	true	REACT:R-HSA-3299685		pathway			76587	8855	1706
+NOXA1	involved-in	RHO GTPase Effectors	ncbigene:10811		gene	true	REACT:R-HSA-195258		pathway			76590	8857	280
+NOXA1	involved-in	RHO GTPases Activate NADPH Oxidases	ncbigene:10811		gene	true	REACT:R-HSA-5668599		pathway			76591	8857	3988
+NOXA1	involved-in	Signaling by Rho GTPases	ncbigene:10811		gene	true	REACT:R-HSA-194315		pathway			76592	8857	25
+NOXA1	involved-in	Signal Transduction	ncbigene:10811		gene	true	REACT:R-HSA-162582		pathway			76593	8857	26
+NOXO1	involved-in	RHO GTPase Effectors	ncbigene:124056		gene	true	REACT:R-HSA-195258		pathway			76594	8858	280
+NOXO1	involved-in	RHO GTPases Activate NADPH Oxidases	ncbigene:124056		gene	true	REACT:R-HSA-5668599		pathway			76595	8858	3988
+NOXO1	involved-in	Signaling by Rho GTPases	ncbigene:124056		gene	true	REACT:R-HSA-194315		pathway			76596	8858	25
+NOXO1	involved-in	Signal Transduction	ncbigene:124056		gene	true	REACT:R-HSA-162582		pathway			76597	8858	26
+NQO1	involved-in	Fluid shear stress and atherosclerosis	ncbigene:1728		gene	true	KEGG:hsa05418		pathway			76838	8896	556
+NQO1	involved-in	Metabolism	ncbigene:1728		gene	true	REACT:R-HSA-1430728		pathway			76839	8896	22
+NQO1	involved-in	Metabolism of amino acids and derivatives	ncbigene:1728		gene	true	REACT:R-HSA-71291		pathway			76840	8896	115
+NQO1	involved-in	Metabolism of polyamines	ncbigene:1728		gene	true	REACT:R-HSA-351202		pathway			76841	8896	890
+NQO1	involved-in	Regulation of ornithine decarboxylase (ODC)	ncbigene:1728		gene	true	REACT:R-HSA-350562		pathway			76842	8896	2180
+NUDT1	involved-in	Metabolism	ncbigene:4521		gene	true	REACT:R-HSA-1430728		pathway			77909	8987	22
+NUDT1	involved-in	Metabolism of nucleotides	ncbigene:4521		gene	true	REACT:R-HSA-15869		pathway			77910	8987	686
+PPP2CA	involved-in	Adaptive Immune System	ncbigene:5515		gene		REACT:R-HSA-1280218		pathway			91720	10269	647
+PPP2CA	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5515		gene		REACT:R-HSA-5467337		pathway	true		91724	10269	1399
+PPP2CA	involved-in	Axon guidance	ncbigene:5515		gene		REACT:R-HSA-422475		pathway			91730	10269	287
+PPP2CA	involved-in	Chagas disease (American trypanosomiasis)	ncbigene:5515		gene		KEGG:hsa05142		pathway			91734	10269	429
+PPP2CA	involved-in	Cytokine Signaling in Immune system	ncbigene:5515		gene		REACT:R-HSA-1280215		pathway			91739	10269	44
+PPP2CA	involved-in	DAP12 interactions	ncbigene:5515		gene		REACT:R-HSA-2172127		pathway			91740	10269	604
+PPP2CA	involved-in	DAP12 signaling	ncbigene:5515		gene		REACT:R-HSA-2424491		pathway			91741	10269	605
+PPP2CA	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5515		gene		REACT:R-HSA-195253		pathway			91743	10269	946
+PPP2CA	involved-in	Developmental Biology	ncbigene:5515		gene		REACT:R-HSA-1266738		pathway			91744	10269	291
+PPP2CA	involved-in	Disease	ncbigene:5515		gene		REACT:R-HSA-1643685		pathway			91746	10269	45
+PPP2CA	involved-in	Diseases of signal transduction	ncbigene:5515		gene		REACT:R-HSA-5663202		pathway			91747	10269	701
+PPP2CA	involved-in	Gene Expression	ncbigene:5515		gene		REACT:R-HSA-74160		pathway			91762	10269	10
+PPP2CA	involved-in	Generic Transcription Pathway	ncbigene:5515		gene		REACT:R-HSA-212436		pathway			91763	10269	1013
+PPP2CA	involved-in	Hemostasis	ncbigene:5515		gene		REACT:R-HSA-109582		pathway			91767	10269	1
+PPP2CA	involved-in	Hippo signaling pathway	ncbigene:5515		gene		KEGG:hsa04390		pathway			91769	10269	562
+PPP2CA	involved-in	Immune System	ncbigene:5515		gene		REACT:R-HSA-168256		pathway			91771	10269	2
+PPP2CA	involved-in	Innate Immune System	ncbigene:5515		gene		REACT:R-HSA-168249		pathway			91774	10269	3
+PPP2CA	involved-in	MAPK family signaling cascades	ncbigene:5515		gene		REACT:R-HSA-5683057		pathway			91784	10269	619
+PPP2CA	involved-in	Metabolism	ncbigene:5515		gene		REACT:R-HSA-1430728		pathway			91788	10269	22
+PPP2CA	involved-in	NCAM signaling for neurite out-growth	ncbigene:5515		gene		REACT:R-HSA-375165		pathway			91803	10269	620
+PPP2CA	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5515		gene		REACT:R-HSA-187037		pathway			91810	10269	622
+PPP2CA	involved-in	RHO GTPase Effectors	ncbigene:5515		gene		REACT:R-HSA-195258		pathway			91833	10269	280
+PPP2CA	involved-in	Signaling by GPCR	ncbigene:5515		gene		REACT:R-HSA-372790		pathway			91847	10269	261
+PPP2CA	involved-in	Signaling by Interleukins	ncbigene:5515		gene		REACT:R-HSA-449147		pathway			91849	10269	631
+PPP2CA	involved-in	Signaling by Rho GTPases	ncbigene:5515		gene		REACT:R-HSA-194315		pathway			91852	10269	25
+PPP2CA	involved-in	Signaling by VEGF	ncbigene:5515		gene		REACT:R-HSA-194138		pathway			91856	10269	282
+PPP2CA	involved-in	Signaling by Wnt	ncbigene:5515		gene		REACT:R-HSA-195721		pathway			91857	10269	948
+PPP2CA	involved-in	Signalling by NGF	ncbigene:5515		gene		REACT:R-HSA-166520		pathway			91859	10269	144
+PPP2CA	involved-in	Signal Transduction	ncbigene:5515		gene		REACT:R-HSA-162582		pathway			91863	10269	26
+PPP2CA	involved-in	TCF dependent signaling in response to WNT	ncbigene:5515		gene		REACT:R-HSA-201681		pathway			91868	10269	1248
+PPP2CA	involved-in	Toll-Like Receptors Cascades	ncbigene:5515		gene		REACT:R-HSA-168898		pathway			91878	10269	987
+PPP2CA	involved-in	Transcriptional Regulation by TP53	ncbigene:5515		gene		REACT:R-HSA-3700989		pathway			91882	10269	1027
+PPP2CA	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5515		gene		REACT:R-HSA-4839744		pathway	true		91884	10269	1411
+PPP2CA	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5515		gene		REACT:R-HSA-4420097		pathway			91886	10269	283
+PPP2CB	involved-in	Adaptive Immune System	ncbigene:5516		gene		REACT:R-HSA-1280218		pathway			91889	10270	647
+PPP2CB	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5516		gene		REACT:R-HSA-5467337		pathway	true		91893	10270	1399
+PPP2CB	involved-in	Axon guidance	ncbigene:5516		gene		REACT:R-HSA-422475		pathway			91899	10270	287
+PPP2CB	involved-in	Chagas disease (American trypanosomiasis)	ncbigene:5516		gene		KEGG:hsa05142		pathway			91903	10270	429
+PPP2CB	involved-in	Cytokine Signaling in Immune system	ncbigene:5516		gene		REACT:R-HSA-1280215		pathway			91908	10270	44
+PPP2CB	involved-in	DAP12 interactions	ncbigene:5516		gene		REACT:R-HSA-2172127		pathway			91909	10270	604
+PPP2CB	involved-in	DAP12 signaling	ncbigene:5516		gene		REACT:R-HSA-2424491		pathway			91910	10270	605
+PPP2CB	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5516		gene		REACT:R-HSA-195253		pathway			91912	10270	946
+PPP2CB	involved-in	Developmental Biology	ncbigene:5516		gene		REACT:R-HSA-1266738		pathway			91913	10270	291
+PPP2CB	involved-in	Disease	ncbigene:5516		gene		REACT:R-HSA-1643685		pathway			91915	10270	45
+PPP2CB	involved-in	Diseases of signal transduction	ncbigene:5516		gene		REACT:R-HSA-5663202		pathway			91916	10270	701
+PPP2CB	involved-in	Gene Expression	ncbigene:5516		gene		REACT:R-HSA-74160		pathway			91931	10270	10
+PPP2CB	involved-in	Generic Transcription Pathway	ncbigene:5516		gene		REACT:R-HSA-212436		pathway			91932	10270	1013
+PPP2CB	involved-in	Hemostasis	ncbigene:5516		gene		REACT:R-HSA-109582		pathway			91936	10270	1
+PPP2CB	involved-in	Hippo signaling pathway	ncbigene:5516		gene		KEGG:hsa04390		pathway			91938	10270	562
+PPP2CB	involved-in	Immune System	ncbigene:5516		gene		REACT:R-HSA-168256		pathway			91940	10270	2
+PPP2CB	involved-in	Innate Immune System	ncbigene:5516		gene		REACT:R-HSA-168249		pathway			91942	10270	3
+PPP2CB	involved-in	MAPK family signaling cascades	ncbigene:5516		gene		REACT:R-HSA-5683057		pathway			91952	10270	619
+PPP2CB	involved-in	Metabolism	ncbigene:5516		gene		REACT:R-HSA-1430728		pathway			91956	10270	22
+PPP2CB	involved-in	NCAM signaling for neurite out-growth	ncbigene:5516		gene		REACT:R-HSA-375165		pathway			91971	10270	620
+PPP2CB	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5516		gene		REACT:R-HSA-187037		pathway			91978	10270	622
+PPP2CB	involved-in	RHO GTPase Effectors	ncbigene:5516		gene		REACT:R-HSA-195258		pathway			91998	10270	280
+PPP2CB	involved-in	Signaling by GPCR	ncbigene:5516		gene		REACT:R-HSA-372790		pathway			92012	10270	261
+PPP2CB	involved-in	Signaling by Interleukins	ncbigene:5516		gene		REACT:R-HSA-449147		pathway			92014	10270	631
+PPP2CB	involved-in	Signaling by Rho GTPases	ncbigene:5516		gene		REACT:R-HSA-194315		pathway			92017	10270	25
+PPP2CB	involved-in	Signaling by VEGF	ncbigene:5516		gene		REACT:R-HSA-194138		pathway			92021	10270	282
+PPP2CB	involved-in	Signaling by Wnt	ncbigene:5516		gene		REACT:R-HSA-195721		pathway			92022	10270	948
+PPP2CB	involved-in	Signalling by NGF	ncbigene:5516		gene		REACT:R-HSA-166520		pathway			92024	10270	144
+PPP2CB	involved-in	Signal Transduction	ncbigene:5516		gene		REACT:R-HSA-162582		pathway			92028	10270	26
+PPP2CB	involved-in	TCF dependent signaling in response to WNT	ncbigene:5516		gene		REACT:R-HSA-201681		pathway			92033	10270	1248
+PPP2CB	involved-in	Toll-Like Receptors Cascades	ncbigene:5516		gene		REACT:R-HSA-168898		pathway			92043	10270	987
+PPP2CB	involved-in	Transcriptional Regulation by TP53	ncbigene:5516		gene		REACT:R-HSA-3700989		pathway			92047	10270	1027
+PPP2CB	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5516		gene		REACT:R-HSA-4839744		pathway	true		92049	10270	1411
+PPP2CB	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5516		gene		REACT:R-HSA-4420097		pathway			92051	10270	283
+PPP2R1A	involved-in	Adaptive Immune System	ncbigene:5518		gene		REACT:R-HSA-1280218		pathway			92054	10271	647
+PPP2R1A	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5518		gene		REACT:R-HSA-5467337		pathway	true		92059	10271	1399
+PPP2R1A	involved-in	Axon guidance	ncbigene:5518		gene		REACT:R-HSA-422475		pathway			92064	10271	287
+PPP2R1A	involved-in	Chagas disease (American trypanosomiasis)	ncbigene:5518		gene		KEGG:hsa05142		pathway			92069	10271	429
+PPP2R1A	involved-in	Cytokine Signaling in Immune system	ncbigene:5518		gene		REACT:R-HSA-1280215		pathway			92075	10271	44
+PPP2R1A	involved-in	DAP12 interactions	ncbigene:5518		gene		REACT:R-HSA-2172127		pathway			92076	10271	604
+PPP2R1A	involved-in	DAP12 signaling	ncbigene:5518		gene		REACT:R-HSA-2424491		pathway			92077	10271	605
+PPP2R1A	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5518		gene		REACT:R-HSA-195253		pathway			92079	10271	946
+PPP2R1A	involved-in	Developmental Biology	ncbigene:5518		gene		REACT:R-HSA-1266738		pathway			92080	10271	291
+PPP2R1A	involved-in	Disease	ncbigene:5518		gene		REACT:R-HSA-1643685		pathway			92082	10271	45
+PPP2R1A	involved-in	Diseases of signal transduction	ncbigene:5518		gene		REACT:R-HSA-5663202		pathway			92083	10271	701
+PPP2R1A	involved-in	Gene Expression	ncbigene:5518		gene		REACT:R-HSA-74160		pathway			92098	10271	10
+PPP2R1A	involved-in	Generic Transcription Pathway	ncbigene:5518		gene		REACT:R-HSA-212436		pathway			92099	10271	1013
+PPP2R1A	involved-in	Hemostasis	ncbigene:5518		gene		REACT:R-HSA-109582		pathway			92103	10271	1
+PPP2R1A	involved-in	Hippo signaling pathway	ncbigene:5518		gene		KEGG:hsa04390		pathway			92105	10271	562
+PPP2R1A	involved-in	Immune System	ncbigene:5518		gene		REACT:R-HSA-168256		pathway			92107	10271	2
+PPP2R1A	involved-in	Innate Immune System	ncbigene:5518		gene		REACT:R-HSA-168249		pathway			92110	10271	3
+PPP2R1A	involved-in	MAPK family signaling cascades	ncbigene:5518		gene		REACT:R-HSA-5683057		pathway			92122	10271	619
+PPP2R1A	involved-in	Metabolism	ncbigene:5518		gene		REACT:R-HSA-1430728		pathway			92126	10271	22
+PPP2R1A	involved-in	NCAM signaling for neurite out-growth	ncbigene:5518		gene		REACT:R-HSA-375165		pathway			92141	10271	620
+PPP2R1A	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5518		gene		REACT:R-HSA-187037		pathway			92148	10271	622
+PPP2R1A	involved-in	RHO GTPase Effectors	ncbigene:5518		gene		REACT:R-HSA-195258		pathway			92174	10271	280
+PPP2R1A	involved-in	Signaling by GPCR	ncbigene:5518		gene		REACT:R-HSA-372790		pathway			92188	10271	261
+PPP2R1A	involved-in	Signaling by Interleukins	ncbigene:5518		gene		REACT:R-HSA-449147		pathway			92190	10271	631
+PPP2R1A	involved-in	Signaling by Rho GTPases	ncbigene:5518		gene		REACT:R-HSA-194315		pathway			92193	10271	25
+PPP2R1A	involved-in	Signaling by VEGF	ncbigene:5518		gene		REACT:R-HSA-194138		pathway			92197	10271	282
+PPP2R1A	involved-in	Signaling by Wnt	ncbigene:5518		gene		REACT:R-HSA-195721		pathway			92198	10271	948
+PPP2R1A	involved-in	Signalling by NGF	ncbigene:5518		gene		REACT:R-HSA-166520		pathway			92200	10271	144
+PPP2R1A	involved-in	Signal Transduction	ncbigene:5518		gene		REACT:R-HSA-162582		pathway			92204	10271	26
+PPP2R1A	involved-in	TCF dependent signaling in response to WNT	ncbigene:5518		gene		REACT:R-HSA-201681		pathway			92209	10271	1248
+PPP2R1A	involved-in	Toll-Like Receptors Cascades	ncbigene:5518		gene		REACT:R-HSA-168898		pathway			92219	10271	987
+PPP2R1A	involved-in	Transcriptional Regulation by TP53	ncbigene:5518		gene		REACT:R-HSA-3700989		pathway			92223	10271	1027
+PPP2R1A	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5518		gene		REACT:R-HSA-4839744		pathway	true		92225	10271	1411
+PPP2R1A	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5518		gene		REACT:R-HSA-4420097		pathway			92227	10271	283
+PPP2R1B	involved-in	Adaptive Immune System	ncbigene:5519		gene		REACT:R-HSA-1280218		pathway			92230	10272	647
+PPP2R1B	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5519		gene		REACT:R-HSA-5467337		pathway	true		92234	10272	1399
+PPP2R1B	involved-in	Axon guidance	ncbigene:5519		gene		REACT:R-HSA-422475		pathway			92238	10272	287
+PPP2R1B	involved-in	Chagas disease (American trypanosomiasis)	ncbigene:5519		gene		KEGG:hsa05142		pathway			92242	10272	429
+PPP2R1B	involved-in	Cytokine Signaling in Immune system	ncbigene:5519		gene		REACT:R-HSA-1280215		pathway			92247	10272	44
+PPP2R1B	involved-in	DAP12 interactions	ncbigene:5519		gene		REACT:R-HSA-2172127		pathway			92248	10272	604
+PPP2R1B	involved-in	DAP12 signaling	ncbigene:5519		gene		REACT:R-HSA-2424491		pathway			92249	10272	605
+PPP2R1B	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5519		gene		REACT:R-HSA-195253		pathway			92251	10272	946
+PPP2R1B	involved-in	Developmental Biology	ncbigene:5519		gene		REACT:R-HSA-1266738		pathway			92252	10272	291
+PPP2R1B	involved-in	Disease	ncbigene:5519		gene		REACT:R-HSA-1643685		pathway			92254	10272	45
+PPP2R1B	involved-in	Diseases of signal transduction	ncbigene:5519		gene		REACT:R-HSA-5663202		pathway			92255	10272	701
+PPP2R1B	involved-in	Gene Expression	ncbigene:5519		gene		REACT:R-HSA-74160		pathway			92270	10272	10
+PPP2R1B	involved-in	Generic Transcription Pathway	ncbigene:5519		gene		REACT:R-HSA-212436		pathway			92271	10272	1013
+PPP2R1B	involved-in	Hemostasis	ncbigene:5519		gene		REACT:R-HSA-109582		pathway			92275	10272	1
+PPP2R1B	involved-in	Hippo signaling pathway	ncbigene:5519		gene		KEGG:hsa04390		pathway			92277	10272	562
+PPP2R1B	involved-in	Immune System	ncbigene:5519		gene		REACT:R-HSA-168256		pathway			92279	10272	2
+PPP2R1B	involved-in	Innate Immune System	ncbigene:5519		gene		REACT:R-HSA-168249		pathway			92281	10272	3
+PPP2R1B	involved-in	MAPK family signaling cascades	ncbigene:5519		gene		REACT:R-HSA-5683057		pathway			92291	10272	619
+PPP2R1B	involved-in	Metabolism	ncbigene:5519		gene		REACT:R-HSA-1430728		pathway			92295	10272	22
+PPP2R1B	involved-in	NCAM signaling for neurite out-growth	ncbigene:5519		gene		REACT:R-HSA-375165		pathway			92310	10272	620
+PPP2R1B	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5519		gene		REACT:R-HSA-187037		pathway			92313	10272	622
+PPP2R1B	involved-in	RHO GTPase Effectors	ncbigene:5519		gene		REACT:R-HSA-195258		pathway			92333	10272	280
+PPP2R1B	involved-in	Signaling by GPCR	ncbigene:5519		gene		REACT:R-HSA-372790		pathway			92342	10272	261
+PPP2R1B	involved-in	Signaling by Interleukins	ncbigene:5519		gene		REACT:R-HSA-449147		pathway			92344	10272	631
+PPP2R1B	involved-in	Signaling by Rho GTPases	ncbigene:5519		gene		REACT:R-HSA-194315		pathway			92347	10272	25
+PPP2R1B	involved-in	Signaling by VEGF	ncbigene:5519		gene		REACT:R-HSA-194138		pathway			92351	10272	282
+PPP2R1B	involved-in	Signaling by Wnt	ncbigene:5519		gene		REACT:R-HSA-195721		pathway			92352	10272	948
+PPP2R1B	involved-in	Signalling by NGF	ncbigene:5519		gene		REACT:R-HSA-166520		pathway			92354	10272	144
+PPP2R1B	involved-in	Signal Transduction	ncbigene:5519		gene		REACT:R-HSA-162582		pathway			92358	10272	26
+PPP2R1B	involved-in	TCF dependent signaling in response to WNT	ncbigene:5519		gene		REACT:R-HSA-201681		pathway			92362	10272	1248
+PPP2R1B	involved-in	Toll-Like Receptors Cascades	ncbigene:5519		gene		REACT:R-HSA-168898		pathway			92372	10272	987
+PPP2R1B	involved-in	Transcriptional Regulation by TP53	ncbigene:5519		gene		REACT:R-HSA-3700989		pathway			92376	10272	1027
+PPP2R1B	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5519		gene		REACT:R-HSA-4839744		pathway	true		92378	10272	1411
+PPP2R1B	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5519		gene		REACT:R-HSA-4420097		pathway			92380	10272	283
+PPP2R5A	involved-in	Adaptive Immune System	ncbigene:5525		gene		REACT:R-HSA-1280218		pathway			92469	10280	647
+PPP2R5A	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5525		gene		REACT:R-HSA-5467337		pathway	true		92473	10280	1399
+PPP2R5A	involved-in	Axon guidance	ncbigene:5525		gene		REACT:R-HSA-422475		pathway			92477	10280	287
+PPP2R5A	involved-in	Cytokine Signaling in Immune system	ncbigene:5525		gene		REACT:R-HSA-1280215		pathway			92483	10280	44
+PPP2R5A	involved-in	DAP12 interactions	ncbigene:5525		gene		REACT:R-HSA-2172127		pathway			92484	10280	604
+PPP2R5A	involved-in	DAP12 signaling	ncbigene:5525		gene		REACT:R-HSA-2424491		pathway			92485	10280	605
+PPP2R5A	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5525		gene		REACT:R-HSA-195253		pathway			92486	10280	946
+PPP2R5A	involved-in	Developmental Biology	ncbigene:5525		gene		REACT:R-HSA-1266738		pathway			92487	10280	291
+PPP2R5A	involved-in	Disease	ncbigene:5525		gene		REACT:R-HSA-1643685		pathway			92489	10280	45
+PPP2R5A	involved-in	Diseases of signal transduction	ncbigene:5525		gene		REACT:R-HSA-5663202		pathway			92490	10280	701
+PPP2R5A	involved-in	Hemostasis	ncbigene:5525		gene		REACT:R-HSA-109582		pathway			92500	10280	1
+PPP2R5A	involved-in	Immune System	ncbigene:5525		gene		REACT:R-HSA-168256		pathway			92502	10280	2
+PPP2R5A	involved-in	Innate Immune System	ncbigene:5525		gene		REACT:R-HSA-168249		pathway			92503	10280	3
+PPP2R5A	involved-in	MAPK family signaling cascades	ncbigene:5525		gene		REACT:R-HSA-5683057		pathway			92511	10280	619
+PPP2R5A	involved-in	NCAM signaling for neurite out-growth	ncbigene:5525		gene		REACT:R-HSA-375165		pathway			92518	10280	620
+PPP2R5A	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5525		gene		REACT:R-HSA-187037		pathway			92521	10280	622
+PPP2R5A	involved-in	RHO GTPase Effectors	ncbigene:5525		gene		REACT:R-HSA-195258		pathway			92535	10280	280
+PPP2R5A	involved-in	Signaling by GPCR	ncbigene:5525		gene		REACT:R-HSA-372790		pathway			92544	10280	261
+PPP2R5A	involved-in	Signaling by Interleukins	ncbigene:5525		gene		REACT:R-HSA-449147		pathway			92546	10280	631
+PPP2R5A	involved-in	Signaling by Rho GTPases	ncbigene:5525		gene		REACT:R-HSA-194315		pathway			92549	10280	25
+PPP2R5A	involved-in	Signaling by VEGF	ncbigene:5525		gene		REACT:R-HSA-194138		pathway			92553	10280	282
+PPP2R5A	involved-in	Signaling by Wnt	ncbigene:5525		gene		REACT:R-HSA-195721		pathway			92554	10280	948
+PPP2R5A	involved-in	Signalling by NGF	ncbigene:5525		gene		REACT:R-HSA-166520		pathway			92556	10280	144
+PPP2R5A	involved-in	Signal Transduction	ncbigene:5525		gene		REACT:R-HSA-162582		pathway			92560	10280	26
+PPP2R5A	involved-in	TCF dependent signaling in response to WNT	ncbigene:5525		gene		REACT:R-HSA-201681		pathway			92564	10280	1248
+PPP2R5A	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5525		gene		REACT:R-HSA-4839744		pathway	true		92565	10280	1411
+PPP2R5A	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5525		gene		REACT:R-HSA-4420097		pathway			92567	10280	283
+PPP2R5B	involved-in	Adaptive Immune System	ncbigene:5526		gene		REACT:R-HSA-1280218		pathway			92569	10281	647
+PPP2R5B	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5526		gene		REACT:R-HSA-5467337		pathway	true		92573	10281	1399
+PPP2R5B	involved-in	Axon guidance	ncbigene:5526		gene		REACT:R-HSA-422475		pathway			92577	10281	287
+PPP2R5B	involved-in	Cytokine Signaling in Immune system	ncbigene:5526		gene		REACT:R-HSA-1280215		pathway			92583	10281	44
+PPP2R5B	involved-in	DAP12 interactions	ncbigene:5526		gene		REACT:R-HSA-2172127		pathway			92584	10281	604
+PPP2R5B	involved-in	DAP12 signaling	ncbigene:5526		gene		REACT:R-HSA-2424491		pathway			92585	10281	605
+PPP2R5B	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5526		gene		REACT:R-HSA-195253		pathway			92586	10281	946
+PPP2R5B	involved-in	Developmental Biology	ncbigene:5526		gene		REACT:R-HSA-1266738		pathway			92587	10281	291
+PPP2R5B	involved-in	Disease	ncbigene:5526		gene		REACT:R-HSA-1643685		pathway			92589	10281	45
+PPP2R5B	involved-in	Diseases of signal transduction	ncbigene:5526		gene		REACT:R-HSA-5663202		pathway			92590	10281	701
+PPP2R5B	involved-in	Hemostasis	ncbigene:5526		gene		REACT:R-HSA-109582		pathway			92600	10281	1
+PPP2R5B	involved-in	Immune System	ncbigene:5526		gene		REACT:R-HSA-168256		pathway			92602	10281	2
+PPP2R5B	involved-in	Innate Immune System	ncbigene:5526		gene		REACT:R-HSA-168249		pathway			92603	10281	3
+PPP2R5B	involved-in	MAPK family signaling cascades	ncbigene:5526		gene		REACT:R-HSA-5683057		pathway			92612	10281	619
+PPP2R5B	involved-in	Metabolism of proteins	ncbigene:5526		gene		REACT:R-HSA-392499		pathway			92613	10281	34
+PPP2R5B	involved-in	NCAM signaling for neurite out-growth	ncbigene:5526		gene		REACT:R-HSA-375165		pathway			92620	10281	620
+PPP2R5B	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5526		gene		REACT:R-HSA-187037		pathway			92623	10281	622
+PPP2R5B	involved-in	RHO GTPase Effectors	ncbigene:5526		gene		REACT:R-HSA-195258		pathway			92637	10281	280
+PPP2R5B	involved-in	Signaling by GPCR	ncbigene:5526		gene		REACT:R-HSA-372790		pathway			92646	10281	261
+PPP2R5B	involved-in	Signaling by Interleukins	ncbigene:5526		gene		REACT:R-HSA-449147		pathway			92648	10281	631
+PPP2R5B	involved-in	Signaling by Rho GTPases	ncbigene:5526		gene		REACT:R-HSA-194315		pathway			92651	10281	25
+PPP2R5B	involved-in	Signaling by VEGF	ncbigene:5526		gene		REACT:R-HSA-194138		pathway			92655	10281	282
+PPP2R5B	involved-in	Signaling by Wnt	ncbigene:5526		gene		REACT:R-HSA-195721		pathway			92656	10281	948
+PPP2R5B	involved-in	Signalling by NGF	ncbigene:5526		gene		REACT:R-HSA-166520		pathway			92658	10281	144
+PPP2R5B	involved-in	Signal Transduction	ncbigene:5526		gene		REACT:R-HSA-162582		pathway			92662	10281	26
+PPP2R5B	involved-in	TCF dependent signaling in response to WNT	ncbigene:5526		gene		REACT:R-HSA-201681		pathway			92666	10281	1248
+PPP2R5B	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5526		gene		REACT:R-HSA-4839744		pathway	true		92667	10281	1411
+PPP2R5B	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5526		gene		REACT:R-HSA-4420097		pathway			92670	10281	283
+PPP2R5C	involved-in	Adaptive Immune System	ncbigene:5527		gene		REACT:R-HSA-1280218		pathway			92673	10282	647
+PPP2R5C	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5527		gene		REACT:R-HSA-5467337		pathway	true		92677	10282	1399
+PPP2R5C	involved-in	Axon guidance	ncbigene:5527		gene		REACT:R-HSA-422475		pathway			92681	10282	287
+PPP2R5C	involved-in	Cytokine Signaling in Immune system	ncbigene:5527		gene		REACT:R-HSA-1280215		pathway			92687	10282	44
+PPP2R5C	involved-in	DAP12 interactions	ncbigene:5527		gene		REACT:R-HSA-2172127		pathway			92688	10282	604
+PPP2R5C	involved-in	DAP12 signaling	ncbigene:5527		gene		REACT:R-HSA-2424491		pathway			92689	10282	605
+PPP2R5C	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5527		gene		REACT:R-HSA-195253		pathway			92690	10282	946
+PPP2R5C	involved-in	Developmental Biology	ncbigene:5527		gene		REACT:R-HSA-1266738		pathway			92691	10282	291
+PPP2R5C	involved-in	Disease	ncbigene:5527		gene		REACT:R-HSA-1643685		pathway			92693	10282	45
+PPP2R5C	involved-in	Diseases of signal transduction	ncbigene:5527		gene		REACT:R-HSA-5663202		pathway			92694	10282	701
+PPP2R5C	involved-in	Gene Expression	ncbigene:5527		gene		REACT:R-HSA-74160		pathway			92703	10282	10
+PPP2R5C	involved-in	Generic Transcription Pathway	ncbigene:5527		gene		REACT:R-HSA-212436		pathway			92704	10282	1013
+PPP2R5C	involved-in	Hemostasis	ncbigene:5527		gene		REACT:R-HSA-109582		pathway			92706	10282	1
+PPP2R5C	involved-in	Immune System	ncbigene:5527		gene		REACT:R-HSA-168256		pathway			92708	10282	2
+PPP2R5C	involved-in	Innate Immune System	ncbigene:5527		gene		REACT:R-HSA-168249		pathway			92709	10282	3
+PPP2R5C	involved-in	MAPK family signaling cascades	ncbigene:5527		gene		REACT:R-HSA-5683057		pathway			92717	10282	619
+PPP2R5C	involved-in	NCAM signaling for neurite out-growth	ncbigene:5527		gene		REACT:R-HSA-375165		pathway			92724	10282	620
+PPP2R5C	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5527		gene		REACT:R-HSA-187037		pathway			92727	10282	622
+PPP2R5C	involved-in	RHO GTPase Effectors	ncbigene:5527		gene		REACT:R-HSA-195258		pathway			92744	10282	280
+PPP2R5C	involved-in	Signaling by GPCR	ncbigene:5527		gene		REACT:R-HSA-372790		pathway			92753	10282	261
+PPP2R5C	involved-in	Signaling by Interleukins	ncbigene:5527		gene		REACT:R-HSA-449147		pathway			92755	10282	631
+PPP2R5C	involved-in	Signaling by Rho GTPases	ncbigene:5527		gene		REACT:R-HSA-194315		pathway			92758	10282	25
+PPP2R5C	involved-in	Signaling by VEGF	ncbigene:5527		gene		REACT:R-HSA-194138		pathway			92762	10282	282
+PPP2R5C	involved-in	Signaling by Wnt	ncbigene:5527		gene		REACT:R-HSA-195721		pathway			92763	10282	948
+PPP2R5C	involved-in	Signalling by NGF	ncbigene:5527		gene		REACT:R-HSA-166520		pathway			92765	10282	144
+PPP2R5C	involved-in	Signal Transduction	ncbigene:5527		gene		REACT:R-HSA-162582		pathway			92769	10282	26
+PPP2R5C	involved-in	TCF dependent signaling in response to WNT	ncbigene:5527		gene		REACT:R-HSA-201681		pathway			92773	10282	1248
+PPP2R5C	involved-in	Transcriptional Regulation by TP53	ncbigene:5527		gene		REACT:R-HSA-3700989		pathway			92774	10282	1027
+PPP2R5C	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5527		gene		REACT:R-HSA-4839744		pathway	true		92775	10282	1411
+PPP2R5C	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5527		gene		REACT:R-HSA-4420097		pathway			92777	10282	283
+PPP2R5D	involved-in	Adaptive Immune System	ncbigene:5528		gene		REACT:R-HSA-1280218		pathway			92780	10283	647
+PPP2R5D	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5528		gene		REACT:R-HSA-5467337		pathway	true		92784	10283	1399
+PPP2R5D	involved-in	Axon guidance	ncbigene:5528		gene		REACT:R-HSA-422475		pathway			92788	10283	287
+PPP2R5D	involved-in	Cytokine Signaling in Immune system	ncbigene:5528		gene		REACT:R-HSA-1280215		pathway			92794	10283	44
+PPP2R5D	involved-in	DAP12 interactions	ncbigene:5528		gene		REACT:R-HSA-2172127		pathway			92795	10283	604
+PPP2R5D	involved-in	DAP12 signaling	ncbigene:5528		gene		REACT:R-HSA-2424491		pathway			92796	10283	605
+PPP2R5D	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5528		gene		REACT:R-HSA-195253		pathway			92798	10283	946
+PPP2R5D	involved-in	Developmental Biology	ncbigene:5528		gene		REACT:R-HSA-1266738		pathway			92799	10283	291
+PPP2R5D	involved-in	Disease	ncbigene:5528		gene		REACT:R-HSA-1643685		pathway			92801	10283	45
+PPP2R5D	involved-in	Diseases of signal transduction	ncbigene:5528		gene		REACT:R-HSA-5663202		pathway			92802	10283	701
+PPP2R5D	involved-in	Hemostasis	ncbigene:5528		gene		REACT:R-HSA-109582		pathway			92816	10283	1
+PPP2R5D	involved-in	Immune System	ncbigene:5528		gene		REACT:R-HSA-168256		pathway			92818	10283	2
+PPP2R5D	involved-in	Innate Immune System	ncbigene:5528		gene		REACT:R-HSA-168249		pathway			92819	10283	3
+PPP2R5D	involved-in	MAPK family signaling cascades	ncbigene:5528		gene		REACT:R-HSA-5683057		pathway			92828	10283	619
+PPP2R5D	involved-in	Metabolism	ncbigene:5528		gene		REACT:R-HSA-1430728		pathway			92831	10283	22
+PPP2R5D	involved-in	NCAM signaling for neurite out-growth	ncbigene:5528		gene		REACT:R-HSA-375165		pathway			92843	10283	620
+PPP2R5D	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5528		gene		REACT:R-HSA-187037		pathway			92846	10283	622
+PPP2R5D	involved-in	RHO GTPase Effectors	ncbigene:5528		gene		REACT:R-HSA-195258		pathway			92863	10283	280
+PPP2R5D	involved-in	Signaling by GPCR	ncbigene:5528		gene		REACT:R-HSA-372790		pathway			92872	10283	261
+PPP2R5D	involved-in	Signaling by Interleukins	ncbigene:5528		gene		REACT:R-HSA-449147		pathway			92874	10283	631
+PPP2R5D	involved-in	Signaling by Rho GTPases	ncbigene:5528		gene		REACT:R-HSA-194315		pathway			92877	10283	25
+PPP2R5D	involved-in	Signaling by VEGF	ncbigene:5528		gene		REACT:R-HSA-194138		pathway			92881	10283	282
+PPP2R5D	involved-in	Signaling by Wnt	ncbigene:5528		gene		REACT:R-HSA-195721		pathway			92882	10283	948
+PPP2R5D	involved-in	Signalling by NGF	ncbigene:5528		gene		REACT:R-HSA-166520		pathway			92884	10283	144
+PPP2R5D	involved-in	Signal Transduction	ncbigene:5528		gene		REACT:R-HSA-162582		pathway			92888	10283	26
+PPP2R5D	involved-in	TCF dependent signaling in response to WNT	ncbigene:5528		gene		REACT:R-HSA-201681		pathway			92892	10283	1248
+PPP2R5D	involved-in	Toll-Like Receptors Cascades	ncbigene:5528		gene		REACT:R-HSA-168898		pathway			92900	10283	987
+PPP2R5D	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5528		gene		REACT:R-HSA-4839744		pathway	true		92905	10283	1411
+PPP2R5D	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5528		gene		REACT:R-HSA-4420097		pathway			92907	10283	283
+PPP2R5E	involved-in	Adaptive Immune System	ncbigene:5529		gene		REACT:R-HSA-1280218		pathway			92909	10284	647
+PPP2R5E	involved-in	APC truncation mutants have impaired AXIN binding	ncbigene:5529		gene		REACT:R-HSA-5467337		pathway	true		92913	10284	1399
+PPP2R5E	involved-in	Axon guidance	ncbigene:5529		gene		REACT:R-HSA-422475		pathway			92917	10284	287
+PPP2R5E	involved-in	Cytokine Signaling in Immune system	ncbigene:5529		gene		REACT:R-HSA-1280215		pathway			92923	10284	44
+PPP2R5E	involved-in	DAP12 interactions	ncbigene:5529		gene		REACT:R-HSA-2172127		pathway			92924	10284	604
+PPP2R5E	involved-in	DAP12 signaling	ncbigene:5529		gene		REACT:R-HSA-2424491		pathway			92925	10284	605
+PPP2R5E	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5529		gene		REACT:R-HSA-195253		pathway			92926	10284	946
+PPP2R5E	involved-in	Developmental Biology	ncbigene:5529		gene		REACT:R-HSA-1266738		pathway			92927	10284	291
+PPP2R5E	involved-in	Disease	ncbigene:5529		gene		REACT:R-HSA-1643685		pathway			92929	10284	45
+PPP2R5E	involved-in	Diseases of signal transduction	ncbigene:5529		gene		REACT:R-HSA-5663202		pathway			92930	10284	701
+PPP2R5E	involved-in	Hemostasis	ncbigene:5529		gene		REACT:R-HSA-109582		pathway			92940	10284	1
+PPP2R5E	involved-in	Immune System	ncbigene:5529		gene		REACT:R-HSA-168256		pathway			92942	10284	2
+PPP2R5E	involved-in	Innate Immune System	ncbigene:5529		gene		REACT:R-HSA-168249		pathway			92943	10284	3
+PPP2R5E	involved-in	MAPK family signaling cascades	ncbigene:5529		gene		REACT:R-HSA-5683057		pathway			92951	10284	619
+PPP2R5E	involved-in	NCAM signaling for neurite out-growth	ncbigene:5529		gene		REACT:R-HSA-375165		pathway			92958	10284	620
+PPP2R5E	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5529		gene		REACT:R-HSA-187037		pathway			92961	10284	622
+PPP2R5E	involved-in	RHO GTPase Effectors	ncbigene:5529		gene		REACT:R-HSA-195258		pathway			92975	10284	280
+PPP2R5E	involved-in	Signaling by GPCR	ncbigene:5529		gene		REACT:R-HSA-372790		pathway			92984	10284	261
+PPP2R5E	involved-in	Signaling by Interleukins	ncbigene:5529		gene		REACT:R-HSA-449147		pathway			92986	10284	631
+PPP2R5E	involved-in	Signaling by Rho GTPases	ncbigene:5529		gene		REACT:R-HSA-194315		pathway			92989	10284	25
+PPP2R5E	involved-in	Signaling by VEGF	ncbigene:5529		gene		REACT:R-HSA-194138		pathway			92993	10284	282
+PPP2R5E	involved-in	Signaling by Wnt	ncbigene:5529		gene		REACT:R-HSA-195721		pathway			92994	10284	948
+PPP2R5E	involved-in	Signalling by NGF	ncbigene:5529		gene		REACT:R-HSA-166520		pathway			92996	10284	144
+PPP2R5E	involved-in	Signal Transduction	ncbigene:5529		gene		REACT:R-HSA-162582		pathway			93000	10284	26
+PPP2R5E	involved-in	TCF dependent signaling in response to WNT	ncbigene:5529		gene		REACT:R-HSA-201681		pathway			93004	10284	1248
+PPP2R5E	involved-in	truncated APC mutants destabilize the destruction complex	ncbigene:5529		gene		REACT:R-HSA-4839744		pathway	true		93005	10284	1411
+PPP2R5E	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5529		gene		REACT:R-HSA-4420097		pathway			93007	10284	283
+PRDX1	involved-in	Cellular responses to stress	ncbigene:5052		gene	true	REACT:R-HSA-2262752		pathway			93363	10321	42
+PRDX1	involved-in	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	ncbigene:5052		gene	true	REACT:R-HSA-8862803		pathway			93364	10321	1682
+PRDX1	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:5052		gene	true	REACT:R-HSA-3299685		pathway			93365	10321	1706
+PRDX1	involved-in	Disease	ncbigene:5052		gene	true	REACT:R-HSA-1643685		pathway			93366	10321	45
+PRDX1	involved-in	Gene Expression	ncbigene:5052		gene	true	REACT:R-HSA-74160		pathway			93367	10321	10
+PRDX1	involved-in	Generic Transcription Pathway	ncbigene:5052		gene	true	REACT:R-HSA-212436		pathway			93368	10321	1013
+PRDX1	involved-in	Neurodegenerative Diseases	ncbigene:5052		gene	true	REACT:R-HSA-8863678		pathway			93369	10321	1683
+PRDX1	involved-in	Peroxisome	ncbigene:5052		gene	true	KEGG:hsa04146		pathway			93370	10321	239
+PRDX1	involved-in	TP53 Regulates Metabolic Genes	ncbigene:5052		gene	true	REACT:R-HSA-5628897		pathway			93371	10321	1026
+PRDX1	involved-in	Transcriptional Regulation by TP53	ncbigene:5052		gene	true	REACT:R-HSA-3700989		pathway			93372	10321	1027
+PRDX2	involved-in	Cellular responses to stress	ncbigene:7001		gene	true	REACT:R-HSA-2262752		pathway			93373	10322	42
+PRDX2	involved-in	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	ncbigene:7001		gene	true	REACT:R-HSA-8862803		pathway			93374	10322	1682
+PRDX2	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:7001		gene	true	REACT:R-HSA-3299685		pathway			93375	10322	1706
+PRDX2	involved-in	Disease	ncbigene:7001		gene	true	REACT:R-HSA-1643685		pathway			93376	10322	45
+PRDX2	involved-in	Gene Expression	ncbigene:7001		gene	true	REACT:R-HSA-74160		pathway			93377	10322	10
+PRDX2	involved-in	Generic Transcription Pathway	ncbigene:7001		gene	true	REACT:R-HSA-212436		pathway			93378	10322	1013
+PRDX2	involved-in	Neurodegenerative Diseases	ncbigene:7001		gene	true	REACT:R-HSA-8863678		pathway			93379	10322	1683
+PRDX2	involved-in	TP53 Regulates Metabolic Genes	ncbigene:7001		gene	true	REACT:R-HSA-5628897		pathway			93380	10322	1026
+PRDX2	involved-in	Transcriptional Regulation by TP53	ncbigene:7001		gene	true	REACT:R-HSA-3700989		pathway			93381	10322	1027
+PRDX3	involved-in	Cellular responses to stress	ncbigene:10935		gene	true	REACT:R-HSA-2262752		pathway			93382	10323	42
+PRDX3	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:10935		gene	true	REACT:R-HSA-3299685		pathway			93383	10323	1706
+PRDX4	involved-in	Immune System	ncbigene:10549		gene	true	REACT:R-HSA-168256		pathway			93384	10324	2
+PRDX4	involved-in	Innate Immune System	ncbigene:10549		gene	true	REACT:R-HSA-168249		pathway			93385	10324	3
+PRDX4	involved-in	Neutrophil degranulation	ncbigene:10549		gene	true	REACT:R-HSA-6798695		pathway			93386	10324	4
+PRDX5	involved-in	Cellular responses to stress	ncbigene:25824		gene	true	REACT:R-HSA-2262752		pathway			93387	10325	42
+PRDX5	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:25824		gene	true	REACT:R-HSA-3299685		pathway			93388	10325	1706
+PRDX5	involved-in	Gene Expression	ncbigene:25824		gene	true	REACT:R-HSA-74160		pathway			93389	10325	10
+PRDX5	involved-in	Generic Transcription Pathway	ncbigene:25824		gene	true	REACT:R-HSA-212436		pathway			93390	10325	1013
+PRDX5	involved-in	Peroxisome	ncbigene:25824		gene	true	KEGG:hsa04146		pathway			93391	10325	239
+PRDX5	involved-in	TP53 Regulates Metabolic Genes	ncbigene:25824		gene	true	REACT:R-HSA-5628897		pathway			93392	10325	1026
+PRDX5	involved-in	Transcriptional Regulation by TP53	ncbigene:25824		gene	true	REACT:R-HSA-3700989		pathway			93393	10325	1027
+PRDX6	involved-in	Cellular responses to stress	ncbigene:9588		gene	true	REACT:R-HSA-2262752		pathway			93394	10326	42
+PRDX6	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:9588		gene	true	REACT:R-HSA-3299685		pathway			93395	10326	1706
+PRDX6	involved-in	Immune System	ncbigene:9588		gene	true	REACT:R-HSA-168256		pathway			93396	10326	2
+PRDX6	involved-in	Innate Immune System	ncbigene:9588		gene	true	REACT:R-HSA-168249		pathway			93397	10326	3
+PRDX6	involved-in	Metabolic pathways	ncbigene:9588		gene	true	KEGG:hsa01100		pathway			93398	10326	32
+PRDX6	involved-in	Neutrophil degranulation	ncbigene:9588		gene	true	REACT:R-HSA-6798695		pathway			93399	10326	4
+PRNP	involved-in	Axon guidance	ncbigene:5621		gene	true	REACT:R-HSA-422475		pathway			95040	10387	287
+PRNP	involved-in	Developmental Biology	ncbigene:5621		gene	true	REACT:R-HSA-1266738		pathway			95041	10387	291
+PRNP	involved-in	Ferroptosis	ncbigene:5621		gene	true	KEGG:hsa04216		pathway			95042	10387	517
+PRNP	involved-in	NCAM signaling for neurite out-growth	ncbigene:5621		gene	true	REACT:R-HSA-375165		pathway			95044	10387	620
+PRNP	involved-in	Prion diseases	ncbigene:5621		gene	true	KEGG:hsa05020		pathway			95045	10387	2278
+PSMB5	involved-in	Adaptive Immune System	ncbigene:5693		gene	true	REACT:R-HSA-1280218		pathway			97786	10464	647
+PSMB5	involved-in	Antigen processing-Cross presentation	ncbigene:5693		gene	true	REACT:R-HSA-1236975		pathway			97787	10464	2186
+PSMB5	involved-in	Apoptosis	ncbigene:5693		gene	true	REACT:R-HSA-109581		pathway			97794	10464	449
+PSMB5	involved-in	AUF1 (hnRNP D0) binds and destabilizes mRNA	ncbigene:5693		gene	true	REACT:R-HSA-450408		pathway			97798	10464	4710
+PSMB5	involved-in	Axon guidance	ncbigene:5693		gene	true	REACT:R-HSA-422475		pathway			97801	10464	287
+PSMB5	involved-in	Cellular responses to stress	ncbigene:5693		gene	true	REACT:R-HSA-2262752		pathway			97809	10464	42
+PSMB5	involved-in	Class I MHC mediated antigen processing & presentation	ncbigene:5693		gene	true	REACT:R-HSA-983169		pathway			97811	10464	1453
+PSMB5	involved-in	Cytokine Signaling in Immune system	ncbigene:5693		gene	true	REACT:R-HSA-1280215		pathway			97817	10464	44
+PSMB5	involved-in	DAP12 interactions	ncbigene:5693		gene	true	REACT:R-HSA-2172127		pathway			97818	10464	604
+PSMB5	involved-in	DAP12 signaling	ncbigene:5693		gene	true	REACT:R-HSA-2424491		pathway			97819	10464	605
+PSMB5	involved-in	Degradation of beta-catenin by the destruction complex	ncbigene:5693		gene	true	REACT:R-HSA-195253		pathway			97823	10464	946
+PSMB5	involved-in	Deubiquitination	ncbigene:5693		gene	true	REACT:R-HSA-5688426		pathway			97827	10464	321
+PSMB5	involved-in	Developmental Biology	ncbigene:5693		gene	true	REACT:R-HSA-1266738		pathway			97828	10464	291
+PSMB5	involved-in	Disease	ncbigene:5693		gene	true	REACT:R-HSA-1643685		pathway			97829	10464	45
+PSMB5	involved-in	Diseases of signal transduction	ncbigene:5693		gene	true	REACT:R-HSA-5663202		pathway			97830	10464	701
+PSMB5	involved-in	Disorders of transmembrane transporters	ncbigene:5693		gene	true	REACT:R-HSA-5619115		pathway			97831	10464	222
+PSMB5	involved-in	ER-Phagosome pathway	ncbigene:5693		gene	true	REACT:R-HSA-1236974		pathway			97837	10464	2188
+PSMB5	involved-in	Gene Expression	ncbigene:5693		gene	true	REACT:R-HSA-74160		pathway			97848	10464	10
+PSMB5	involved-in	Hedgehog 'off' state	ncbigene:5693		gene	true	REACT:R-HSA-5610787		pathway			97852	10464	809
+PSMB5	involved-in	HIV Infection	ncbigene:5693		gene	true	REACT:R-HSA-162906		pathway			97856	10464	50
+PSMB5	involved-in	Host Interactions of HIV factors	ncbigene:5693		gene	true	REACT:R-HSA-162909		pathway			97857	10464	52
+PSMB5	involved-in	Immune System	ncbigene:5693		gene	true	REACT:R-HSA-168256		pathway			97859	10464	2
+PSMB5	involved-in	Infectious disease	ncbigene:5693		gene	true	REACT:R-HSA-5663205		pathway			97860	10464	54
+PSMB5	involved-in	Innate Immune System	ncbigene:5693		gene	true	REACT:R-HSA-168249		pathway			97861	10464	3
+PSMB5	involved-in	MAPK6/MAPK4 signaling	ncbigene:5693		gene	true	REACT:R-HSA-5687128		pathway			97869	10464	1014
+PSMB5	involved-in	MAPK family signaling cascades	ncbigene:5693		gene	true	REACT:R-HSA-5683057		pathway			97870	10464	619
+PSMB5	involved-in	Metabolism	ncbigene:5693		gene	true	REACT:R-HSA-1430728		pathway			97871	10464	22
+PSMB5	involved-in	Metabolism of amino acids and derivatives	ncbigene:5693		gene	true	REACT:R-HSA-71291		pathway			97872	10464	115
+PSMB5	involved-in	Metabolism of polyamines	ncbigene:5693		gene	true	REACT:R-HSA-351202		pathway			97873	10464	890
+PSMB5	involved-in	Metabolism of proteins	ncbigene:5693		gene	true	REACT:R-HSA-392499		pathway			97874	10464	34
+PSMB5	involved-in	NCAM signaling for neurite out-growth	ncbigene:5693		gene	true	REACT:R-HSA-375165		pathway			97881	10464	620
+PSMB5	involved-in	NGF signalling via TRKA from the plasma membrane	ncbigene:5693		gene	true	REACT:R-HSA-187037		pathway			97882	10464	622
+PSMB5	involved-in	Post-translational protein modification	ncbigene:5693		gene	true	REACT:R-HSA-597592		pathway			97891	10464	37
+PSMB5	involved-in	Programmed Cell Death	ncbigene:5693		gene	true	REACT:R-HSA-5357801		pathway			97892	10464	454
+PSMB5	involved-in	Regulation of mRNA stability by proteins that bind AU-rich elements	ncbigene:5693		gene	true	REACT:R-HSA-450531		pathway			97903	10464	1237
+PSMB5	involved-in	Regulation of ornithine decarboxylase (ODC)	ncbigene:5693		gene	true	REACT:R-HSA-350562		pathway			97904	10464	2180
+PSMB5	involved-in	Signaling by GPCR	ncbigene:5693		gene	true	REACT:R-HSA-372790		pathway			97913	10464	261
+PSMB5	involved-in	Signaling by Hedgehog	ncbigene:5693		gene	true	REACT:R-HSA-5358351		pathway			97914	10464	729
+PSMB5	involved-in	Signaling by Interleukins	ncbigene:5693		gene	true	REACT:R-HSA-449147		pathway			97916	10464	631
+PSMB5	involved-in	Signaling by VEGF	ncbigene:5693		gene	true	REACT:R-HSA-194138		pathway			97922	10464	282
+PSMB5	involved-in	Signaling by Wnt	ncbigene:5693		gene	true	REACT:R-HSA-195721		pathway			97923	10464	948
+PSMB5	involved-in	Signalling by NGF	ncbigene:5693		gene	true	REACT:R-HSA-166520		pathway			97924	10464	144
+PSMB5	involved-in	Signal Transduction	ncbigene:5693		gene	true	REACT:R-HSA-162582		pathway			97928	10464	26
+PSMB5	involved-in	TCF dependent signaling in response to WNT	ncbigene:5693		gene	true	REACT:R-HSA-201681		pathway			97934	10464	1248
+PSMB5	involved-in	Transmembrane transport of small molecules	ncbigene:5693		gene	true	REACT:R-HSA-382551		pathway			97938	10464	86
+PSMB5	involved-in	UCH proteinases	ncbigene:5693		gene	true	REACT:R-HSA-5689603		pathway			97943	10464	578
+PSMB5	involved-in	VEGFA-VEGFR2 Pathway	ncbigene:5693		gene	true	REACT:R-HSA-4420097		pathway			97944	10464	283
+PTGS1	involved-in	Arachidonic acid metabolism	ncbigene:5742		gene	true	REACT:R-HSA-2142753		pathway			103147	10526	200
+PTGS1	involved-in	Arachidonic acid metabolism	ncbigene:5742		gene	true	REACT:R-HSA-2142753		pathway			103148	10526	200
+PTGS1	involved-in	Biological oxidations	ncbigene:5742		gene	true	REACT:R-HSA-211859		pathway			103149	10526	105
+PTGS1	involved-in	Metabolic pathways	ncbigene:5742		gene	true	KEGG:hsa01100		pathway			103151	10526	32
+PTGS1	involved-in	Metabolism	ncbigene:5742		gene	true	REACT:R-HSA-1430728		pathway			103152	10526	22
+PTGS1	involved-in	Metabolism of lipids and lipoproteins	ncbigene:5742		gene	true	REACT:R-HSA-556833		pathway			103153	10526	23
+PTGS1	involved-in	Phase 1 - Functionalization of compounds	ncbigene:5742		gene	true	REACT:R-HSA-211945		pathway			103154	10526	106
+PTGS1	involved-in	Platelet activation	ncbigene:5742		gene	true	KEGG:hsa04611		pathway			103155	10526	568
+PTGS1	involved-in	Regulation of lipolysis in adipocytes	ncbigene:5742		gene	true	KEGG:hsa04923		pathway			103156	10526	274
+PTGS1	involved-in	Serotonergic synapse	ncbigene:5742		gene	true	KEGG:hsa04726		pathway			103157	10526	846
+PTGS1	involved-in	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	ncbigene:5742		gene	true	REACT:R-HSA-2162123		pathway			103158	10526	1167
+PTGS2	involved-in	Arachidonic acid metabolism	ncbigene:5743		gene	true	REACT:R-HSA-2142753		pathway			103159	10528	200
+PTGS2	involved-in	Arachidonic acid metabolism	ncbigene:5743		gene	true	REACT:R-HSA-2142753		pathway			103160	10528	200
+PTGS2	involved-in	Chemical carcinogenesis	ncbigene:5743		gene	true	KEGG:hsa05204		pathway			103161	10528	873
+PTGS2	involved-in	Cytokine Signaling in Immune system	ncbigene:5743		gene	true	REACT:R-HSA-1280215		pathway			103162	10528	44
+PTGS2	involved-in	Immune System	ncbigene:5743		gene	true	REACT:R-HSA-168256		pathway			103164	10528	2
+PTGS2	involved-in	Interleukin-10 signaling	ncbigene:5743		gene	true	REACT:R-HSA-6783783		pathway			103165	10528	2862
+PTGS2	involved-in	Interleukin-4 and 13 signaling	ncbigene:5743		gene	true	REACT:R-HSA-6785807		pathway			103166	10528	1212
+PTGS2	involved-in	Leishmaniasis	ncbigene:5743		gene	true	KEGG:hsa05140		pathway			103167	10528	2578
+PTGS2	involved-in	Metabolic pathways	ncbigene:5743		gene	true	KEGG:hsa01100		pathway			103168	10528	32
+PTGS2	involved-in	Metabolism	ncbigene:5743		gene	true	REACT:R-HSA-1430728		pathway			103169	10528	22
+PTGS2	involved-in	Metabolism of lipids and lipoproteins	ncbigene:5743		gene	true	REACT:R-HSA-556833		pathway			103170	10528	23
+PTGS2	involved-in	Metabolism of vitamins and cofactors	ncbigene:5743		gene	true	REACT:R-HSA-196854		pathway			103171	10528	135
+PTGS2	involved-in	Metabolism of water-soluble vitamins and cofactors	ncbigene:5743		gene	true	REACT:R-HSA-196849		pathway			103172	10528	136
+PTGS2	involved-in	MicroRNAs in cancer	ncbigene:5743		gene	true	KEGG:hsa05206		pathway			103173	10528	182
+PTGS2	involved-in	Oxytocin signaling pathway	ncbigene:5743		gene	true	KEGG:hsa04921		pathway			103178	10528	566
+PTGS2	involved-in	Pathways in cancer	ncbigene:5743		gene	true	KEGG:hsa05200		pathway			103179	10528	303
+PTGS2	involved-in	Regulation of lipolysis in adipocytes	ncbigene:5743		gene	true	KEGG:hsa04923		pathway			103180	10528	274
+PTGS2	involved-in	Serotonergic synapse	ncbigene:5743		gene	true	KEGG:hsa04726		pathway			103182	10528	846
+PTGS2	involved-in	Signaling by Interleukins	ncbigene:5743		gene	true	REACT:R-HSA-449147		pathway			103183	10528	631
+PTGS2	involved-in	Small cell lung cancer	ncbigene:5743		gene	true	KEGG:hsa05222		pathway			103184	10528	1246
+PTGS2	involved-in	Synthesis of 15-eicosatetraenoic acid derivatives	ncbigene:5743		gene	true	REACT:R-HSA-2142770		pathway			103185	10528	1362
+PTGS2	involved-in	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	ncbigene:5743		gene	true	REACT:R-HSA-2162123		pathway			103186	10528	1167
+PTGS2	involved-in	TNF signaling pathway	ncbigene:5743		gene	true	KEGG:hsa04668		pathway			103187	10528	1250
+RAG2	involved-in	Cytokine Signaling in Immune system	ncbigene:5897		gene	true	REACT:R-HSA-1280215		pathway			105201	10714	44
+RAG2	involved-in	FoxO signaling pathway	ncbigene:5897		gene	true	KEGG:hsa04068		pathway			105202	10714	965
+RAG2	involved-in	Immune System	ncbigene:5897		gene	true	REACT:R-HSA-168256		pathway			105203	10714	2
+RAG2	involved-in	MAPK6/MAPK4 signaling	ncbigene:5897		gene	true	REACT:R-HSA-5687128		pathway			105205	10714	1014
+RAG2	involved-in	MAPK family signaling cascades	ncbigene:5897		gene	true	REACT:R-HSA-5683057		pathway			105206	10714	619
+RAG2	involved-in	Signaling by Interleukins	ncbigene:5897		gene	true	REACT:R-HSA-449147		pathway			105208	10714	631
+RAG2	involved-in	Signal Transduction	ncbigene:5897		gene	true	REACT:R-HSA-162582		pathway			105209	10714	26
+RPLP1	involved-in	Disease	ncbigene:6176		gene	true	REACT:R-HSA-1643685		pathway			110808	11113	45
+RPLP1	involved-in	Gene Expression	ncbigene:6176		gene	true	REACT:R-HSA-74160		pathway			110813	11113	10
+RPLP1	involved-in	Infectious disease	ncbigene:6176		gene	true	REACT:R-HSA-5663205		pathway			110815	11113	54
+RPLP1	involved-in	Influenza Infection	ncbigene:6176		gene	true	REACT:R-HSA-168254		pathway			110816	11113	55
+RPLP1	involved-in	Influenza Life Cycle	ncbigene:6176		gene	true	REACT:R-HSA-168255		pathway			110817	11113	56
+RPLP1	involved-in	Metabolism	ncbigene:6176		gene	true	REACT:R-HSA-1430728		pathway			110821	11113	22
+RPLP1	involved-in	Metabolism of amino acids and derivatives	ncbigene:6176		gene	true	REACT:R-HSA-71291		pathway			110822	11113	115
+RPLP1	involved-in	Metabolism of proteins	ncbigene:6176		gene	true	REACT:R-HSA-392499		pathway			110823	11113	34
+RPLP1	involved-in	Selenoamino acid metabolism	ncbigene:6176		gene	true	REACT:R-HSA-2408522		pathway			110832	11113	1080
+SLC38A1	involved-in	Amino acid transport across the plasma membrane	ncbigene:81539		gene	true	REACT:R-HSA-352230		pathway			117374	11766	11616
+SLC38A1	involved-in	GABAergic synapse	ncbigene:81539		gene	true	KEGG:hsa04727		pathway			117376	11766	149
+SLC38A1	involved-in	SLC-mediated transmembrane transport	ncbigene:81539		gene	true	REACT:R-HSA-425407		pathway			117380	11766	78
+SLC38A1	involved-in	Transmembrane transport of small molecules	ncbigene:81539		gene	true	REACT:R-HSA-382551		pathway			117381	11766	86
+SLC38A1	involved-in	Transport of inorganic cations/anions and amino acids/oligopeptides	ncbigene:81539		gene	true	REACT:R-HSA-425393		pathway			117383	11766	1090
+SLC38A5	involved-in	Amino acid transport across the plasma membrane	ncbigene:92745		gene	true	REACT:R-HSA-352230		pathway			117406	11770	11616
+SLC38A5	involved-in	GABAergic synapse	ncbigene:92745		gene	true	KEGG:hsa04727		pathway			117407	11770	149
+SLC38A5	involved-in	SLC-mediated transmembrane transport	ncbigene:92745		gene	true	REACT:R-HSA-425407		pathway			117408	11770	78
+SLC38A5	involved-in	Transmembrane transport of small molecules	ncbigene:92745		gene	true	REACT:R-HSA-382551		pathway			117409	11770	86
+SLC38A5	involved-in	Transport of inorganic cations/anions and amino acids/oligopeptides	ncbigene:92745		gene	true	REACT:R-HSA-425393		pathway			117410	11770	1090
+SOD1	involved-in	Amyotrophic lateral sclerosis (ALS)	ncbigene:6647		gene	true	KEGG:hsa05014		pathway			119211	12019	1376
+SOD1	involved-in	Cellular responses to stress	ncbigene:6647		gene	true	REACT:R-HSA-2262752		pathway			119212	12019	42
+SOD1	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:6647		gene	true	REACT:R-HSA-3299685		pathway			119213	12019	1706
+SOD1	involved-in	Hemostasis	ncbigene:6647		gene	true	REACT:R-HSA-109582		pathway			119214	12019	1
+SOD1	involved-in	Huntington's disease	ncbigene:6647		gene	true	KEGG:hsa05016		pathway			119215	12019	1554
+SOD1	involved-in	Longevity regulating pathway - multiple species	ncbigene:6647		gene	true	KEGG:hsa04213		pathway			119216	12019	814
+SOD1	involved-in	Peroxisome	ncbigene:6647		gene	true	KEGG:hsa04146		pathway			119217	12019	239
+SOD1	involved-in	Platelet activation, signaling and aggregation	ncbigene:6647		gene	true	REACT:R-HSA-76002		pathway			119218	12019	5
+SOD1	involved-in	Platelet degranulation	ncbigene:6647		gene	true	REACT:R-HSA-114608		pathway			119219	12019	6
+SOD1	involved-in	Prion diseases	ncbigene:6647		gene	true	KEGG:hsa05020		pathway			119220	12019	2278
+SOD1	involved-in	Response to elevated platelet cytosolic Ca2+	ncbigene:6647		gene	true	REACT:R-HSA-76005		pathway			119221	12019	7
+SOD2	involved-in	Cellular responses to stress	ncbigene:6648		gene	true	REACT:R-HSA-2262752		pathway			119222	12020	42
+SOD2	involved-in	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	ncbigene:6648		gene	true	REACT:R-HSA-8862803		pathway			119223	12020	1682
+SOD2	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:6648		gene	true	REACT:R-HSA-3299685		pathway			119224	12020	1706
+SOD2	involved-in	Disease	ncbigene:6648		gene	true	REACT:R-HSA-1643685		pathway			119225	12020	45
+SOD2	involved-in	FoxO signaling pathway	ncbigene:6648		gene	true	KEGG:hsa04068		pathway			119226	12020	965
+SOD2	involved-in	Huntington's disease	ncbigene:6648		gene	true	KEGG:hsa05016		pathway			119227	12020	1554
+SOD2	involved-in	Longevity regulating pathway	ncbigene:6648		gene	true	KEGG:hsa04211		pathway			119228	12020	813
+SOD2	involved-in	Longevity regulating pathway - multiple species	ncbigene:6648		gene	true	KEGG:hsa04213		pathway			119229	12020	814
+SOD2	involved-in	Neurodegenerative Diseases	ncbigene:6648		gene	true	REACT:R-HSA-8863678		pathway			119230	12020	1683
+SOD2	involved-in	Peroxisome	ncbigene:6648		gene	true	KEGG:hsa04146		pathway			119231	12020	239
+SOD3	involved-in	Cellular responses to stress	ncbigene:6649		gene	true	REACT:R-HSA-2262752		pathway			119237	12022	42
+SOD3	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:6649		gene	true	REACT:R-HSA-3299685		pathway			119238	12022	1706
+SQSTM1	involved-in	Cytokine Signaling in Immune system	ncbigene:8878		gene	true	REACT:R-HSA-1280215		pathway			120477	12126	44
+SQSTM1	involved-in	Fluid shear stress and atherosclerosis	ncbigene:8878		gene	true	KEGG:hsa05418		pathway			120478	12126	556
+SQSTM1	involved-in	Immune System	ncbigene:8878		gene	true	REACT:R-HSA-168256		pathway			120479	12126	2
+SQSTM1	involved-in	Osteoclast differentiation	ncbigene:8878		gene	true	KEGG:hsa04380		pathway			120485	12126	500
+SQSTM1	involved-in	Signaling by Interleukins	ncbigene:8878		gene	true	REACT:R-HSA-449147		pathway			120490	12126	631
+SQSTM1	involved-in	Signalling by NGF	ncbigene:8878		gene	true	REACT:R-HSA-166520		pathway			120491	12126	144
+SQSTM1	involved-in	Signal Transduction	ncbigene:8878		gene	true	REACT:R-HSA-162582		pathway			120492	12126	26
+TPO	involved-in	Amine-derived hormones	ncbigene:7173		gene	true	REACT:R-HSA-209776		pathway			127290	12838	124
+TPO	involved-in	Metabolic pathways	ncbigene:7173		gene	true	KEGG:hsa01100		pathway			127292	12838	32
+TPO	involved-in	Metabolism	ncbigene:7173		gene	true	REACT:R-HSA-1430728		pathway			127293	12838	22
+TPO	involved-in	Metabolism of amino acids and derivatives	ncbigene:7173		gene	true	REACT:R-HSA-71291		pathway			127294	12838	115
+TPO	involved-in	Thyroid hormone synthesis	ncbigene:7173		gene	true	KEGG:hsa04918		pathway			127296	12838	829
+TPO	involved-in	Thyroxine biosynthesis	ncbigene:7173		gene	true	REACT:R-HSA-209968		pathway			127297	12838	3308
+TPO	involved-in	Tyrosine metabolism	ncbigene:7173		gene	true	KEGG:hsa00350		pathway			127298	12838	879
+TXNIP	involved-in	Immune System	ncbigene:10628		gene	true	REACT:R-HSA-168256		pathway			129173	13084	2
+TXNIP	involved-in	Innate Immune System	ncbigene:10628		gene	true	REACT:R-HSA-168249		pathway			129175	13084	3
+TXNIP	involved-in	NOD-like receptor signaling pathway	ncbigene:10628		gene	true	KEGG:hsa04621		pathway			129176	13084	1108
+TXNRD1	involved-in	Cellular responses to stress	ncbigene:7296		gene	true	REACT:R-HSA-2262752		pathway			129186	13086	42
+TXNRD1	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:7296		gene	true	REACT:R-HSA-3299685		pathway			129187	13086	1706
+TXNRD1	involved-in	Disease	ncbigene:7296		gene	true	REACT:R-HSA-1643685		pathway			129188	13086	45
+TXNRD1	involved-in	Gene Expression	ncbigene:7296		gene	true	REACT:R-HSA-74160		pathway			129190	13086	10
+TXNRD1	involved-in	Generic Transcription Pathway	ncbigene:7296		gene	true	REACT:R-HSA-212436		pathway			129191	13086	1013
+TXNRD1	involved-in	Infectious disease	ncbigene:7296		gene	true	REACT:R-HSA-5663205		pathway			129192	13086	54
+TXNRD1	involved-in	Metabolism	ncbigene:7296		gene	true	REACT:R-HSA-1430728		pathway			129193	13086	22
+TXNRD1	involved-in	Metabolism of amino acids and derivatives	ncbigene:7296		gene	true	REACT:R-HSA-71291		pathway			129194	13086	115
+TXNRD1	involved-in	Metabolism of ingested H2SeO4 and H2SeO3 into H2Se	ncbigene:7296		gene	true	REACT:R-HSA-2408550		pathway			129195	13086	5899
+TXNRD1	involved-in	Metabolism of lipids and lipoproteins	ncbigene:7296		gene	true	REACT:R-HSA-556833		pathway			129197	13086	23
+TXNRD1	involved-in	Metabolism of nucleotides	ncbigene:7296		gene	true	REACT:R-HSA-15869		pathway			129198	13086	686
+TXNRD1	involved-in	Pyrimidine metabolism	ncbigene:7296		gene	true	REACT:R-HSA-73848		pathway			129200	13086	1069
+TXNRD1	involved-in	Selenoamino acid metabolism	ncbigene:7296		gene	true	REACT:R-HSA-2408522		pathway			129202	13086	1080
+TXNRD1	involved-in	Selenocompound metabolism	ncbigene:7296		gene	true	KEGG:hsa00450		pathway			129203	13086	3889
+TXNRD1	involved-in	Synthesis and interconversion of nucleotide di- and triphosphates	ncbigene:7296		gene	true	REACT:R-HSA-499943		pathway			129204	13086	1125
+TXNRD1	involved-in	TP53 Regulates Metabolic Genes	ncbigene:7296		gene	true	REACT:R-HSA-5628897		pathway			129205	13086	1026
+TXNRD1	involved-in	Transcriptional Regulation by TP53	ncbigene:7296		gene	true	REACT:R-HSA-3700989		pathway			129206	13086	1027
+TXNRD2	involved-in	Cellular responses to stress	ncbigene:10587		gene	true	REACT:R-HSA-2262752		pathway			129209	13088	42
+TXNRD2	involved-in	Detoxification of Reactive Oxygen Species	ncbigene:10587		gene	true	REACT:R-HSA-3299685		pathway			129210	13088	1706
+TXNRD2	involved-in	Pyrimidine metabolism	ncbigene:10587		gene	true	REACT:R-HSA-73848		pathway			129211	13088	1069
+TXNRD2	involved-in	Selenocompound metabolism	ncbigene:10587		gene	true	KEGG:hsa00450		pathway			129212	13088	3889
+UCP2	involved-in	Metabolism	ncbigene:7351		gene	true	REACT:R-HSA-1430728		pathway			131175	13183	22
+UCP2	involved-in	Mitochondrial Uncoupling Proteins	ncbigene:7351		gene	true	REACT:R-HSA-166187		pathway			131176	13183	11675
+UCP2	involved-in	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	ncbigene:7351		gene	true	REACT:R-HSA-163200		pathway			131177	13183	367
+UCP2	involved-in	The citric acid (TCA) cycle and respiratory electron transport	ncbigene:7351		gene	true	REACT:R-HSA-1428517		pathway			131178	13183	368
+UCP2	involved-in	The fatty acid cycling model	ncbigene:7351		gene	true	REACT:R-HSA-167826		pathway			131179	13183	11676
+UCP2	involved-in	The proton buffering model	ncbigene:7351		gene	true	REACT:R-HSA-167827		pathway			131180	13183	11677
+UCP3	involved-in	Metabolism	ncbigene:7352		gene	true	REACT:R-HSA-1430728		pathway			131181	13184	22
+UCP3	involved-in	Mitochondrial Uncoupling Proteins	ncbigene:7352		gene	true	REACT:R-HSA-166187		pathway			131182	13184	11675
+UCP3	involved-in	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	ncbigene:7352		gene	true	REACT:R-HSA-163200		pathway			131183	13184	367
+UCP3	involved-in	The citric acid (TCA) cycle and respiratory electron transport	ncbigene:7352		gene	true	REACT:R-HSA-1428517		pathway			131184	13184	368
+UCP3	involved-in	The fatty acid cycling model	ncbigene:7352		gene	true	REACT:R-HSA-167826		pathway			131185	13184	11676
+UCP3	involved-in	The proton buffering model	ncbigene:7352		gene	true	REACT:R-HSA-167827		pathway			131186	13184	11677
+VIM	involved-in	Apoptosis	ncbigene:7431		gene	true	REACT:R-HSA-109581		pathway			132933	13378	449
+VIM	involved-in	Apoptotic cleavage of cellular proteins	ncbigene:7431		gene	true	REACT:R-HSA-111465		pathway			132934	13378	450
+VIM	involved-in	Apoptotic execution  phase	ncbigene:7431		gene	true	REACT:R-HSA-75153		pathway			132935	13378	451
+VIM	involved-in	Cytokine Signaling in Immune system	ncbigene:7431		gene	true	REACT:R-HSA-1280215		pathway			132937	13378	44
+VIM	involved-in	Epstein-Barr virus infection	ncbigene:7431		gene	true	KEGG:hsa05169		pathway			132938	13378	933
+VIM	involved-in	Immune System	ncbigene:7431		gene	true	REACT:R-HSA-168256		pathway			132939	13378	2
+VIM	involved-in	Interleukin-4 and 13 signaling	ncbigene:7431		gene	true	REACT:R-HSA-6785807		pathway			132940	13378	1212
+VIM	involved-in	MicroRNAs in cancer	ncbigene:7431		gene	true	KEGG:hsa05206		pathway			132941	13378	182
+VIM	involved-in	Programmed Cell Death	ncbigene:7431		gene	true	REACT:R-HSA-5357801		pathway			132943	13378	454
+VIM	involved-in	Signaling by Interleukins	ncbigene:7431		gene	true	REACT:R-HSA-449147		pathway			132944	13378	631
