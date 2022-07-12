@@ -1,0 +1,2 @@
+,rank,path_name,p_val,z_score,combined_score,overlapping_genes,adj_p_val,database
+0,1,NOD-like receptor signaling pathway,0.009049904470786355,19819.0,93248.41634586031,['TXNIP'],0.009049904470786355,KEGG_2021_Human

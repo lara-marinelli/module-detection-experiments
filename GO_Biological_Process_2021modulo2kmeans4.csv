@@ -1,0 +1,5 @@
+,rank,path_name,p_val,z_score,combined_score,overlapping_genes,adj_p_val,database
+0,1,detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580),0.001999963168059245,19960.0,124043.94523066044,['LPO'],0.0029332809572564494,GO_Biological_Process_2021
+1,2,sensory perception of bitter taste (GO:0050913),0.00204996254668666,19959.0,123544.88783416105,['LPO'],0.0029332809572564494,GO_Biological_Process_2021
+2,3,detection of chemical stimulus involved in sensory perception of taste (GO:0050912),0.002199960717942337,19956.0,122117.06559109333,['LPO'],0.0029332809572564494,GO_Biological_Process_2021
+3,4,defense response to bacterium (GO:0042742),0.008799906001252198,19824.0,93827.2742785136,['LPO'],0.008799906001252198,GO_Biological_Process_2021

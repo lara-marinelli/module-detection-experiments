@@ -1,0 +1,3 @@
+,rank,path_name,p_val,z_score,combined_score,overlapping_genes,adj_p_val,database
+0,1,ubiquitin protein ligase binding (GO:0031625),0.013249881884833479,19735.0,85329.534658987,['TXNIP'],0.014099877894629747,GO_Molecular_Function_2021
+1,2,ubiquitin-like protein ligase binding (GO:0044389),0.014099877894629747,19718.0,84030.01469388837,['TXNIP'],0.014099877894629747,GO_Molecular_Function_2021
